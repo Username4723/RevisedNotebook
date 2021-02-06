@@ -34,8 +34,17 @@
         <div v-else>
           <!-- header -->
           <b-card-header>
-            <b-card-title> {{ rootPage.title }} </b-card-title>
-            <b-card-sub-title v-if="rootPage.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
+            <b-container fluid>
+              <b-row>
+                <b-col>
+                  <b-card-title> {{ rootPage.title }} </b-card-title>
+                  <b-card-sub-title v-if="rootPage.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
+                </b-col>
+                <b-col class="text-right">
+                  <slot name="header" v-bind:rootPage="rootPage"></slot>
+                </b-col>
+              </b-row>
+            </b-container>
           </b-card-header>
 
           <!-- content -->
