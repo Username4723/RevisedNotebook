@@ -44,12 +44,14 @@
                 <!-- images -->
                 <b-col v-if="page.images" sm="6">
                   <b-carousel :controls="page.images.length > 1" :indicators="page.images.length > 1" :interval="4000" background="#ababab">
-                    <b-carousel-slide v-for="(image, index) in page.images" :key="index" :img-src="'/assets/' + type + '/' + path.replace('.', '/') + '/' + image.link">
-                      <b-card border-variant="dark" id="caption-card">
-                        <b-card-title> {{ image.caption }} </b-card-title>
-                        <b-caption-body v-if="image.subcaption"> {{ image.subcaption }} </b-caption-body>
-                      </b-card>
-                    </b-carousel-slide>
+                    <div v-for="(image, index) in page.images" :key="index">
+                      <b-carousel-slide v-if="!image.disabled" :img-src="'/assets/' + type + '/' + path.replace('.', '/') + '/' + image.link">
+                        <b-card border-variant="dark" id="caption-card">
+                          <b-card-title> {{ image.caption }} </b-card-title>
+                          <b-caption-body v-if="image.subcaption"> {{ image.subcaption }} </b-caption-body>
+                        </b-card>
+                      </b-carousel-slide>
+                    </div>
                   </b-carousel>
                 </b-col>
               </b-row>
