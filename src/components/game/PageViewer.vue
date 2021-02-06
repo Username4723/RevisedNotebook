@@ -47,7 +47,7 @@
                     <b-carousel-slide v-for="(image, index) in page.images" :key="index" :img-src="'/assets/' + type + '/' + path.replace('.', '/') + '/' + image.link">
                       <b-card border-variant="dark" id="caption-card">
                         <b-card-title> {{ image.caption }} </b-card-title>
-                        <b-caption-body v-if="image.text"> {{ image.text }} </b-caption-body>
+                        <b-caption-body v-if="image.subcaption"> {{ image.subcaption }} </b-caption-body>
                       </b-card>
                     </b-carousel-slide>
                   </b-carousel>
