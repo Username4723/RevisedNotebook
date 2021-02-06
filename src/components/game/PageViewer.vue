@@ -14,6 +14,7 @@
     <b-col>
       <b-card border-variant="dark" class="text-left">
         <div v-if="rootPage == undefined">
+          <!-- Invalid pages -->
           <b-card-header>
             <b-card-title> 404: Page not found. </b-card-title>
             <b-card-sub-title> See the sidebar for valid locations. </b-card-sub-title>
@@ -28,11 +29,16 @@
             <b-button variant="primary" :to="{ name: type, params: { id: path.split('.')[0] }}">Return to root page?</b-button>
           </b-card-footer>
         </div>
+
+        <!-- page -->
         <div v-else>
+          <!-- header -->
           <b-card-header>
             <b-card-title> {{ rootPage.title }} </b-card-title>
             <b-card-sub-title v-if="rootPage.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
           </b-card-header>
+
+          <!-- content -->
           <b-card-body>
             <b-container fluid>
               <!-- row 1 - text and image -->
