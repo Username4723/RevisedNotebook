@@ -17,6 +17,7 @@ const routes = [
 
   {
     path: '/world/:id',
+    name: 'world',
     component: World
   },
 
