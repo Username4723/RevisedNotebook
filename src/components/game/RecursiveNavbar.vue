@@ -11,14 +11,14 @@
             <BIconDashCircle></BIconDashCircle>
           </b-button>
 
-          <b-link v-if="page.text || page.images || page.table" :to="{ name: 'world', params: { id: route == '' ? key : route + '.' + key }}"> {{ page.title }} </b-link>
+          <b-link v-if="page.text || page.images || page.table" :to="{ name: type, params: { id: route == '' ? key : route + '.' + key }}"> {{ page.title }} </b-link>
           <span v-else> {{ page.title }} </span>
         </div>
       </b-row>
       <b-row v-if="page.subpages" class="mb-1">
         <b-collapse :id="key">
           <b-card>
-            <RecursiveNavbar :pages="page.subpages" :route="route == '' ? key : route + '.' + key"></RecursiveNavbar>
+            <RecursiveNavbar :pages="page.subpages" :type="type" :route="route == '' ? key : route + '.' + key"></RecursiveNavbar>
           </b-card>
         </b-collapse>
       </b-row>
@@ -36,11 +36,15 @@ export default {
     BIconDashCircle
   },
   props: {
-    "pages": {
+    pages: {
       type: Object,
       required: true
     },
-    "route": {
+    type: {
+      type: String,
+      required: true
+    },
+    route: {
       type: String,
       default: ''
     }

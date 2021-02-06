@@ -5,7 +5,7 @@
       <b-card border-variant="dark" class="text-left">
         <b-container>
           <b-navbar-brand>Navigation</b-navbar-brand>
-          <RecursiveNavbar :pages="data"></RecursiveNavbar>
+          <RecursiveNavbar :type="type" :pages="data"></RecursiveNavbar>
         </b-container>
       </b-card>
     </b-col>
