@@ -1,0 +1,189 @@
+{
+  "crashlanding": {
+    "title": "Crash Landing (Needs Players!)",
+    "text": "external",
+    "world": "fantasy3"
+  },
+  "diamond": {
+    "title": "A Diamond Heart",
+    "world": "fantasy2",
+    "text": [
+      "A campaign focused on exploration of the world and its history.",
+      "This campaign currently has one player, who requested I create it for them to play solo."
+    ],
+    "subpages": {
+      "lore": {
+        "title": "Lore Fragments",
+        "subpages": {
+          "lore1": {
+            "title": "Lore Fragment 1",
+            "text": "external"
+          }
+        }
+      }
+    }
+  },
+  "orbs": {
+    "title": "Orbs's Campaign",
+    "text": [
+      "I'm a player in this one. It hasn't had a session for a while so I'm considering it concluded"
+    ],
+    "images": [
+      {
+        "caption": "Map",
+        "link": "map.jpg"
+      }
+    ]
+  },
+  "lasers": {
+    "title": "Lasers & Phasers",
+    "world": "scifi",
+    "text": "external",
+    "subpages": {
+      "dungeons": {
+        "title": "Past Dungeons",
+        "images": [
+          {
+            "caption": "Abandoned Substation",
+            "subcaption": "A substation that once connected Summer's Forge, now fallen into disrepair.",
+            "link": "abandoned_substation.jpg"
+          },
+          {
+            "caption": "Unused Dungeon",
+            "link": "unused.jpg"
+          }
+        ]
+      }
+    }
+  },
+  "survival": {
+    "title": "Survival Campaign",
+    "text": "external",
+    "world": "fantasy",
+    "subpages": {
+      "death": {
+        "title": "Death of Ryla",
+        "text": "external"
+      },
+      "sacrifice": {
+        "title": "Sacrifice of Elpye",
+        "text": "external"
+      }
+    }
+  },
+  "borrowedtime": {
+    "title": "Borrowed Time",
+    "world": "fantasy",
+    "text": [
+      "This campaign was concluded. All resources provided have names changed. If you need access to the original names, contact me."
+    ],
+    "subpages": {
+      "notes": {
+        "title": "Campaign Notes",
+        "subpages": {
+          "initial": {
+            "title": "Initial Import",
+            "text": "external"
+          },
+          "next": {
+            "title": "22/6/20",
+            "text": "external"
+          }
+        }
+      },
+      "lore": {
+        "title": "Campaign Lore",
+        "subpages": {
+          "books": {
+            "title": "Books",
+            "text": "external"
+          },
+          "dragons": {
+            "title": "Draconic Rumors & Religion",
+            "text": "external"
+          },
+          "embers": {
+            "title": "Ancient Civilization",
+            "text": "external"
+          },
+          "keya": {
+            "title": "Keya",
+            "text": "external"
+          },
+          "legends": {
+            "title": "Legends",
+            "text": "external"
+          },
+          "monologues": {
+            "title": "Monologues",
+            "text": "external"
+          },
+          "poem": {
+            "title": "Random Poem",
+            "text": "external"
+          },
+          "rumors": {
+            "title": "Rumors",
+            "text": "external"
+          },
+          "starter": {
+            "title": "Starting Lore",
+            "text": "external"
+          },
+          "visions": {
+            "title": "Visions",
+            "text": "external"
+          }
+        }
+      }
+    }
+  },
+  "medieval": {
+    "title": "Medieval",
+    "text": [
+      "A campaign I was a player in that has now concluded. Names have been changed. Anyone who needs to know who is who can contact me."
+    ],
+    "subpages": {
+      "notes": {
+        "title": "Campaign Notes",
+        "text": "external"
+      }
+    }
+  },
+  "newworld": {
+    "title": "The New World",
+    "text": [
+      "A one-shot I was a player in that has now concluded. Names have been changed. Anyone who needs to know who is who can contact me."
+    ],
+    "subpages": {
+      "notes": {
+        "title": "Notes",
+        "text": "external"
+      }
+    }
+  },
+  "halloween": {
+    "title": "Halloween One-Shot",
+    "text": [
+      "A one-shot I was a player in that has now concluded. Names have been changed. Anyone who needs to know who is who can contact me."
+    ],
+    "subpages": {
+      "notes": {
+        "title": "Notes",
+        "text": "external"
+      }
+    }
+  },
+  "timebubble": {
+    "text": "Time Bubble",
+    "text": [
+      "A campaign I was a player in that has been cancelled. Names have been changed. Anyone who needs to know who is who can contact me."
+    ],
+    "subpages": {
+      "notes": {
+        "title": "Notes",
+        "text": "external"
+      }
+    }
+  }
+}
