@@ -8,6 +8,7 @@
             <b-collapse id="nav-text-collapse" is-nav>
               <b-navbar-nav>
                 <b-nav-item-dropdown text="Campaigns">
+                  <b-dropdown-item v-for="(name, id) in campaigns" v-bind:key="id" :to="{ name: 'campaign', params: { id: id   }}" >{{ name }}</b-dropdown-item>
                 </b-nav-item-dropdown>
 
                 <b-nav-item-dropdown text="Worlds">
@@ -29,13 +30,19 @@
 
 <script>
 
-import worldData from '../../data/worlds.json'
+import worldData from '../../data/world.json'
+import campaignData from '../../data/campaign.json'
 export default {
   name: 'MainPage',
   computed: {
     worlds: function() {
       let data = {}
       for (let key in worldData) data[key] = worldData[key].title
+      return data
+    },
+    campaigns: function() {
+      let data = {}
+      for (let key in campaignData) data[key] = campaignData[key].title
       return data
     }
   }

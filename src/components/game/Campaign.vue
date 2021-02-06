@@ -1,5 +1,5 @@
 <template>
-  <PageViewer type="world" :path="$route.params.id"></PageViewer>
+  <PageViewer type="campaign" :path="$route.params.id"></PageViewer>
 </template>
 
 <script>
