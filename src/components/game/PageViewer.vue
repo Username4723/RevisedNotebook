@@ -13,10 +13,10 @@
     <!-- main page -->
     <b-col>
       <b-card border-variant="dark" class="text-left">
-        <div v-if="world == undefined">
+        <div v-if="rootPage == undefined">
           <b-card-header>
             <b-card-title> 404: Page not found. </b-card-title>
-            <b-card-sub-title> See the sidebar for valid worlds. </b-card-sub-title>
+            <b-card-sub-title> See the sidebar for valid locations. </b-card-sub-title>
           </b-card-header>
         </div>
         <div v-else-if="page == undefined">
@@ -30,8 +30,8 @@
         </div>
         <div v-else>
           <b-card-header>
-            <b-card-title> {{ world.title }} </b-card-title>
-            <b-card-sub-title v-if="world.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
+            <b-card-title> {{ rootPage.title }} </b-card-title>
+            <b-card-sub-title v-if="rootPage.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
           </b-card-header>
           <b-card-body>
             <b-container fluid>
@@ -89,8 +89,8 @@ export default {
     data: function() {
       return require('../../../data/' + this.type + ".json");
     },
-    world: function() {
-      return this.data[this.path];
+    rootPage: function() {
+      return this.data[this.path.split(".")[0]];
     },
     page: function() {
       let space = this.path.split(".");
