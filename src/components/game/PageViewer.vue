@@ -38,17 +38,20 @@
               <!-- row 1 - text and image -->
               <b-row v-if="page.text || page.images">
                 <b-col v-if="page.text">
-                  <p v-for="(line, index) in page.text" v-bind:key="index"> {{ line }} </p>
+                  <div v-if="page.text != 'external'">
+                    <p v-for="(line, index) in page.text" v-bind:key="index"> {{ line }} </p>
+                  </div>
+                  <div v-else v-html="require(`../../../public/assets/${type}/${path.replace(/\./g, '/')}/text.md`)"></div>
                 </b-col>
 
                 <!-- images -->
                 <b-col v-if="page.images" sm="6">
                   <b-carousel :controls="page.images.length > 1" :indicators="page.images.length > 1" :interval="4000" background="#ababab">
                     <div v-for="(image, index) in page.images" :key="index">
-                      <b-carousel-slide v-if="!image.disabled" :img-src="'/assets/' + type + '/' + path.replace('.', '/') + '/' + image.link">
+                      <b-carousel-slide v-if="!image.disabled" :img-src="'/assets/' + type + '/' + path.replace(/\./g, '/') + '/' + image.link">
                         <b-card border-variant="dark" id="caption-card">
                           <b-card-title> {{ image.caption }} </b-card-title>
-                          <b-caption-body v-if="image.subcaption"> {{ image.subcaption }} </b-caption-body>
+                          <b-card-body v-if="image.subcaption"> {{ image.subcaption }} </b-card-body>
                         </b-card>
                       </b-carousel-slide>
                     </div>
