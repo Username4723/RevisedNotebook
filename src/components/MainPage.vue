@@ -24,7 +24,9 @@
       </b-col>
     </b-row>
 
-    <router-view class="mt-3"></router-view>
+    <transition name="fade" mode="out-in">
+      <router-view class="mt-3" :key="$route.params.id"></router-view>
+    </transition>
   </b-container>
 </template>
 
@@ -48,3 +50,17 @@ export default {
   }
 }
 </script>
+
+<style>
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
+</style>
