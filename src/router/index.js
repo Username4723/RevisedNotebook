@@ -11,21 +11,27 @@ import WorkInProgress from "../components/WorkInProgress.vue"
 
 import World from "../components/game/World.vue"
 import Campaign from "../components/game/Campaign.vue"
+import Character from "../components/game/Character.vue"
 
 const routes = [
   { path: '', component: HomePage },
   { path: '/wip', component: WorkInProgress }, // Avoid unused error
 
-    {
-      path: '/world/:id',
-      name: 'world',
-      component: World
-    },
-    {
-      path: '/campaign/:id',
-      name: 'campaign',
-      component: Campaign
-    },
+  {
+    path: '/world/:id',
+    name: 'world',
+    component: World
+  },
+  {
+    path: '/campaign/:id',
+    name: 'campaign',
+    component: Campaign
+  },
+  {
+    path: '/character/:id',
+    name: 'character',
+    component: Character
+  },
 
   { path: '*', component: NotFound }
 ]

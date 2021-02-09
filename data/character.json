@@ -1,0 +1,149 @@
+{
+  "elemental": {
+    "title": "The School for Elemental Heroes",
+    "text": [
+      "I forgot my character here as the campaign has taken months to start, so borrowed a character from UoW"
+    ],
+    "subpages": {
+      "arlen": {
+        "title": "Arlen Sarfiel",
+        "text": [
+          "This is a borrowed character."
+        ],
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ],
+        "sheet": "https://docs.google.com/spreadsheets/d/1rUQX_Tp_ZDeqE8IQk28tCZulyvehKhTOBf-r0umKi2E/edit?usp=sharing"
+      }
+    }
+  },
+  "apocalyptic": {
+    "title": "The Apocalypic Campaign",
+    "text": [
+      "A campaign I was invited to, but haven't been able to play in as no sessions have been scheduled."
+    ],
+    "subpages": {
+      "finley": {
+        "title": "Finley",
+        "text": "external",
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ]
+      }
+    }
+  },
+  "frostburn": {
+    "title": "Frostburn",
+    "text": [
+      "A couple of NPCs I've made for the Frostburn campaign. They are directly inspired by the UoW characters"
+    ],
+    "subpages": {
+      "arlen": {
+        "title": "Arlen Sarfiel",
+        "text": "external",
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ]
+      },
+      "siceo": {
+        "title": "Siceo Zycie",
+        "text": "external"
+      }
+    }
+  },
+  "ls": {
+    "title": "LS",
+    "text": [
+      "A few characters from a discord server I'm no longer in."
+    ],
+    "subpages": {
+      "aevum": {
+        "title": "Aevum Nisato",
+        "text": "external",
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.svg"
+          }
+        ]
+      },
+      "danyel": {
+        "title": "Danyel Alari",
+        "text": "external",
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.svg"
+          },
+          {
+            "caption": "Housing",
+            "link": "https://statesmanapartments.com/wp-content/uploads/1-bed-1-bath-apartment-floor-plan-a1-790-sq-ft.jpg"
+          }
+        ]
+      }
+    }
+  },
+  "uow": {
+    "title": "UoW",
+    "text": [
+      "A few characters from a Discord server I'm no longer in."
+    ],
+    "subpages": {
+      "adney": {
+        "title": "Adney (WIP)",
+        "text": "external"
+      },
+      "siceo": {
+        "title": "Siceo Zycie",
+        "text": "external"
+      },
+      "vianola": {
+        "title": "Vianola Sylyra (Rewrite)",
+        "text": "external"
+      },
+      "vianola-old": {
+        "title": "Vianola Sylyra (Scrapped Version)",
+        "text": "external"
+      },
+      "syva": {
+        "title": "Sylvine Tefra",
+        "text": "external"
+      },
+      "arlen": {
+        "title": "Arlen Sarfiel",
+        "text": "external",
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ]
+      }
+    }
+  },
+  "themagicbeyond": {
+    "title": "The Magic Beyond",
+    "text": [
+      "A campaign I quit."
+    ],
+    "subpages": {
+      "elwood": {
+        "title": "Elwood Laena",
+        "text": "external"
+      },
+      "aspen": {
+        "title": "Aspen",
+        "text": "external"
+      }
+    }
+  }
+}

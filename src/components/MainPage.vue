@@ -16,6 +16,7 @@
                 </b-nav-item-dropdown>
 
                 <b-nav-item-dropdown text="Characters">
+                  <b-dropdown-item v-for="(name, id) in characters" v-bind:key="id" :to="{ name: 'character', params: { id: id   }}" >{{ name }}</b-dropdown-item>
                 </b-nav-item-dropdown>
               </b-navbar-nav>
             </b-collapse>
@@ -34,6 +35,8 @@
 
 import worldData from '../../data/world.json'
 import campaignData from '../../data/campaign.json'
+import characterData from '../../data/character.json'
+
 export default {
   name: 'MainPage',
   computed: {
@@ -45,6 +48,11 @@ export default {
     campaigns: function() {
       let data = {}
       for (let key in campaignData) data[key] = campaignData[key].title
+      return data
+    },
+    characters: function() {
+      let data = {}
+      for (let key in characterData) data[key] = characterData[key].title
       return data
     }
   }
