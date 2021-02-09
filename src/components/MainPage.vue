@@ -26,7 +26,7 @@
     </b-row>
 
     <transition name="fade" mode="out-in">
-      <router-view class="mt-3" :key="$route.params.id"></router-view>
+      <router-view class="mt-3"></router-view>
     </transition>
   </b-container>
 </template>
