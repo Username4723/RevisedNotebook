@@ -34,7 +34,7 @@ jobs:
       - name: Prepare Build for Upload
         run: |
           cp dist/index.html dist/404.html
-        # echo 'red5684.tk' > dist/CNAME
+          echo 'red5684.tk' > dist/CNAME
 
       # Runs a set of commands using the runners shell
       - name: Push
