@@ -7,6 +7,7 @@
             <b-navbar-brand to="/">Red's D&amp;D Notebook</b-navbar-brand>
             <b-collapse id="nav-text-collapse" is-nav>
               <b-navbar-nav>
+                <b-nav-item :to="{ name: 'references' }">Utilities &amp; Tools</b-nav-item>
                 <b-nav-item-dropdown text="Campaigns">
                   <b-dropdown-item v-for="(name, id) in campaigns" v-bind:key="id" :to="{ name: 'campaign', params: { id: id   }}" >{{ name }}</b-dropdown-item>
                 </b-nav-item-dropdown>
