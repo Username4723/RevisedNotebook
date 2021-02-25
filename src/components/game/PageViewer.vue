@@ -107,7 +107,7 @@ export default {
   },
   computed: {
     data: function() {
-      return require('../../../data/' + this.type + ".json");
+      return require('@/data/' + this.type + ".json");
     },
     rootPage: function() {
       return this.data[this.path.split(".")[0]];

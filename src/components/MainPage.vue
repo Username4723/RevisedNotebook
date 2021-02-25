@@ -34,9 +34,9 @@
 
 <script>
 
-import worldData from '../../data/world.json'
-import campaignData from '../../data/campaign.json'
-import characterData from '../../data/character.json'
+import worldData from '@/data/world.json'
+import campaignData from '@/data/campaign.json'
+import characterData from '@/data/character.json'
 
 export default {
   name: 'MainPage',
