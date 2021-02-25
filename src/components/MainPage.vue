@@ -4,7 +4,10 @@
       <b-col>
         <b-card border-variant="dark">
           <b-navbar :toggleable="false" type="dark" variant="info">
-            <b-navbar-brand to="/">Red's D&amp;D Notebook</b-navbar-brand>
+            <b-navbar-brand to="/">
+              <b-img src="@/icon.svg" fluid></b-img>
+              Red's D&amp;D Notebook
+            </b-navbar-brand>
             <b-collapse id="nav-text-collapse" is-nav>
               <b-navbar-nav>
                 <b-nav-item :to="{ name: 'references' }">Utilities &amp; Tools</b-nav-item>
