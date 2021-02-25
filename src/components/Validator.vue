@@ -1,5 +1,17 @@
 <template>
   <b-container fluid>
+    <!-- settings -->
+    <b-row>
+      <b-col>
+        <b-card>
+          <b-card-header>
+            <b-card-title>Validation</b-card-title>
+          </b-card-header>
+        </b-card>
+      </b-col>
+    </b-row>
+    <br/>
+
     <!-- homebrew -->
     <b-row>
       <b-col>
@@ -20,17 +32,18 @@
         </b-card>
       </b-col>
     </b-row>
+    <br/>
 
     <!-- pages -->
     <b-row>
-      <b-col v-for="(pages, index) in data" :key="index">
+      <b-col v-for="(group, index) in pages" :key="index">
         <b-card>
           <b-card-header>
             <b-card-title>Pages: {{ index }}</b-card-title>
           </b-card-header>
           <b-card-body>
             <b-list-group>
-              <b-list-group-item v-for="(page, pageIndex) in pages" :key="pageIndex" :variant="pageSchema(page) ? 'success' : 'danger'">
+              <b-list-group-item v-for="(page, pageIndex) in group" :key="pageIndex" :variant="pageSchema(page) ? 'success' : 'danger'">
                 {{ page.title }}
                 <div v-if="!pageSchema(page)">
                   {{ pageSchema.errors }}
@@ -51,17 +64,17 @@ const ajv = new Ajv({ allErrors: true })
 addFormats(ajv)
 
 export default {
-  computed: {
-    data: function() {
-      return {
+  data: function() {
+    return {
+      pages: {
         campaign: require('@/data/campaign.json'),
         character: require('@/data/character.json'),
         world: require('@/data/world.json'),
-      }
-    },
-    homebrew: function() {
-      return require('@/data/homebrew_links.json')
-    },
+      },
+      homebrew: require('@/data/homebrew_links.json')
+    }
+  },
+  computed: {
     pageSchema: function() {
       return ajv.compile(require('@/schemas/page.schema.json'))
     },
