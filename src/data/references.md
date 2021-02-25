@@ -37,5 +37,6 @@ Avrae     | Character Sheet     | <https://ghseet2.avrae.io/>
 # Credits for Other Files
 
 File       | Source    | Link
----------- | --------- | ----------------------------------------------------------------
+---------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Names.json | libmapgen | <https://github.com/averrin/libmapgen/blob/master/src/names.cpp>
+Favicon    | Flaticon  | <https://www.flaticon.com/packs/butterflies> `<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`
