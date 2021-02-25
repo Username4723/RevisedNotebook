@@ -1,0 +1,1149 @@
+[
+  {
+    "name": "Edgelord",
+    "type": "background",
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ier6w6/edgelord_backround_for_5e_have_you_met_edgelord/",
+    "balance": 0,
+    "tags": [
+      "joke"
+    ]
+  },
+  {
+    "name": "Monster Hunter",
+    "type": "background",
+    "link": "https://www.dandwiki.com/wiki/Monster_Hunter_(5e_Background)",
+    "balance": 0
+  },
+  {
+    "name": "Sadistic Assassin",
+    "type": "background",
+    "link": "https://www.dandwiki.com/wiki/Sadistic_Assassin_(5e_Background)",
+    "balance": 1,
+    "notes": "Balance explanation: Provides a residence or similar. Please contact the DM to work out finer details regarding this."
+  },
+  {
+    "name": "Split Personality",
+    "type": "background",
+    "link": "https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)",
+    "balance": 1,
+    "changes": "Limit the amount of personalities to 3 at most for the ease of the DM.",
+    "tags": [
+      "nonmechanical"
+    ],
+    "notes": "Balance explanation: Provides several proficiencies."
+  },
+  {
+    "name": "Awakened Cat",
+    "type": "race",
+    "link": "https://homebrewery.naturalcrit.com/share/SJHYdnaiVz",
+    "balance": 0,
+    "tags": [
+      "souls"
+    ],
+    "notes": "Please contact the DM if you chose to go this race to work on your backstory."
+  },
+  {
+    "name": "Bunneth",
+    "type": "race",
+    "link": "https://mydnd.tumblr.com/post/174247219184",
+    "balance": 0
+  },
+  {
+    "name": "Lucario",
+    "type": "race",
+    "link": "https://dandwiki.com/wiki/Lucario_(5e_Race)"
+  },
+  {
+    "name": "Kitsune",
+    "type": "race",
+    "link": "https://dnd-5e-homebrew.tumblr.com/post/136606911851/kitsune-race-by-homicidalhotdog/amp"
+  },
+  {
+    "name": "School of Theurgy",
+    "type": "subclass",
+    "subtype": "wizard",
+    "link": "https://dnd5e.wikidot.com/wizard:theurgy-ua"
+  },
+  {
+    "name": "Startouched",
+    "type": "subclass",
+    "subtype": "sorcerer",
+    "link": "https://drive.google.com/file/d/15_iI7yXnvBwwYOuTo-YRugwE45rcEHoI/view"
+  },
+  {
+    "name": "The King in Yellow",
+    "type": "subclass",
+    "subtype": "warlock",
+    "link": "https://drive.google.com/file/d/1L54_mIBtwPhn-SYwGHCotP-O56WrALXP/view"
+  },
+  {
+    "name": "Iron Soul",
+    "type": "subclass",
+    "subtype": "sorcerer",
+    "link": "https://drive.google.com/file/d/1Z4Jh4WnpbQRH2rE9zF2AF2D3zJeAc6k5/view"
+  },
+  {
+    "name": "Avocato",
+    "type": "familiar",
+    "link": "https://drive.google.com/file/d/1gJQc_9b0I0foeAxFw3YBPE65g2pvUIni/view"
+  },
+  {
+    "name": "Lunar Snipe Conclave",
+    "type": "subclass",
+    "subtype": "ranger",
+    "link": "https://homebrewery.naturalcrit.com/share/HkWQ9Xh0ON"
+  },
+  {
+    "name": "Oath of the Unconquered",
+    "type": "paladin",
+    "link": "https://homebrewery.naturalcrit.com/share/HkuuSHd54"
+  },
+  {
+    "name": "Hematurgist",
+    "type": "class",
+    "link": "https://homebrewery.naturalcrit.com/share/S1bbMZp1bU"
+  },
+  {
+    "name": "Oath of the Darkness",
+    "type": "subclass",
+    "subtype": "paladin",
+    "link": "https://homebrewery.naturalcrit.com/share/rJKgfR5af"
+  },
+  {
+    "name": "Oath of the Grim Hunt",
+    "type": "subclass",
+    "subtype": "paladin",
+    "link": "https://homebrewery.naturalcrit.com/share/ryWTS6m9N"
+  },
+  {
+    "name": "Toonkind",
+    "type": "race",
+    "link": "https://i.redd.it/muf87sbrqwr21.jpg"
+  },
+  {
+    "link": "https://jemmora.com/2018/06/20/5e-vampire-class/"
+  },
+  {
+    "link": "https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf"
+  },
+  {
+    "link": "https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf"
+  },
+  {
+    "link": "https://mfov.magehandpress.com/2017/07/power-word-spells.html"
+  },
+  {
+    "link": "https://old.reddit.com/r/UnearthedArcana/comments/agfb05/5e_path_of_the_bladestorm_barbarian_hurl_weapons/"
+  },
+  {
+    "link": "https://old.reddit.com/r/UnearthedArcana/comments/aq7nxc/5e_way_of_the_outcast_monk_a_monk_that_has_lost/"
+  },
+  {
+    "link": "https://old.reddit.com/r/UnearthedArcana/comments/ayius4/path_of_the_dishonored_for_those_who_seek_death/"
+  },
+  {
+    "link": "https://www.5esrd.com/database/race/satyr"
+  },
+  {
+    "link": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/titan-mauler/"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Additional_Artificer_Infusions_(5e_Class_Feature)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Aligrine_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Arrow_of_1,000_Stars_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Axari_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Demon_King_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Dragon_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Dragon_Mage_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Dragon_Rider_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Eldar_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Embodied_Mouther_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Forgotten_(5e_Background)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Full_Counter_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Geomancy_(5e_Subclass)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Godbinder_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Hydronian_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Illithid_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Jedi/Sith,_3rd_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Kaleido_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Keybearer_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Lati_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Lich,_3rd_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Lich,_4th_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Lich,_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Master_of_a_Thousand_Cuts_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Master_of_the_Arcane_Sword_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Necromancy_Bloodline_(5e_Subclass)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Nightwings_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Nocturne_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Phantom_Thief_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Planeswalker,_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Rainwing_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Revenant_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Satyr_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Vampire_(5e_Race)"
+  },
+  {
+    "link": "https://www.dandwiki.com/wiki/Yakuza,_Variant_(5e_Class)"
+  },
+  {
+    "link": "https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender"
+  },
+  {
+    "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5"
+  },
+  {
+    "link": "https://www.gmbinder.com/share/-MJVQX3LfSlcRONaig9O/-MMChc3Tu0YvYhPFu02v"
+  },
+  {
+    "link": "https://www.myth-weavers.com/showthread.php?t=358636"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnD/comments/h7j4zi/oc_the_mistborn_v13_now_with_6_new_misting_races/"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnD/comments/h7u5w1/homebrew_puppeteer_class_rough_draft_trying_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/bc8j78/old_school_cantrips/"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/gq49u0/fun_way_to_keep_your_hungry_players_fed_in/"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/k9v6s2/the_complete_hippo_2020_update/"
+  },
+  {
+    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/l015wb/best_of_2020_winners/"
+  },
+  {
+    "link": "https://www.reddit.com/r/SpectreCreations/comments/lj3uks/primordial_rune_formless_februneuary_day_13/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/6om1nu/arcane_artillery_the_gun_nuts_guide_final_edition/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/939c4v/genuine_the_compendium_of_forgotten_secrets/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9ccl7k/the_commoner_an_eminently_killable_possibly/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9szfsg/the_stressed_student_wizard_subclass_for_all_of/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/a7y86c/roguish_archetype_secret_santa/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/awjuou/subclass_fatesguard_ranger_conclave_know_your/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/aytuic/the_best_of_unearthed_arcana_the_last_6_months_of/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b3tcb0/rookie_characters_be_a_0thlevel_hero/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b7jsxd/aether_twin_a_fighter_archetype_than_never_fights/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ba7lkr/artificer_subclass_panzer_guard/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bfoayn/the_evetongue_new_power_word_spells_plus_high/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bgxdxc/oath_of_the_unbreakable_a_paladin_oath_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/blb9ml/goliath_subraces_genealogy_test_revealed_you_dont/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bonogz/the_next_artificer_ua_artificer_2_2019/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bopt3f/throw_hands_a_conjuration_cantrip_your_enemies/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bpffcg/panzer_guard_the_heavy_arms_artificer_specialty/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/brvhpe/plot_armour_for_when_mage_armour_just_doesnt_cut/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bx31p9/ghost_writer_a_simple_roleplay_spell_for_those/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cbzzy3/arcane_traditionwizard_subclass_hedge_magic_1st/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cex2yi/fated_soul_sorcerer_subclass_a_tree_falls_towards/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ci34lc/paladin_oath_of_the_goodest_boi_release_the_bark/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cj1l9m/arcane_traditionwizard_subclass_hedge_magic_2nd/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cp0bjr/bard_college_of_revolution_a_single_spark_is/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ct22g1/otherworldly_patron_revised_great_old_one_now/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ctuzkj/agents_of_chaldea_5e_a_small_homebrew_book/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cxfvqo/titan_aasimar_enough_with_angels_and_devas_your/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cyer23/ice_cube_for_those_who_tire_of_fire_balls/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cz90u6/race_spudborn_a_race_of_hearty_potato_people/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d0gh68/induce_headache_a_spell_inspired_by_dealing_with/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d589ld/good_day_i_hope_your_day_is_good/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d5k0ez/skiptracer_ranger_archetype_for_the_true_urban/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d7sh0i/the_symbiont_the_symbiotic_biomancer_class/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/daxjmi/arcane_tradition_forge_arcana_a_wizard_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dhce95/oath_of_the_grim_hunt_a_paladin_oath_dedicated_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dhpcs1/spell_minor_mishap_a_cantrip_for_causing/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dkn99j/gravitational_spells_at_the_peaks_of_gravity/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dl5vil/the_party_when_a_warlock_gains_his_power_from_his/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dm65as/fool_me_once_cheat_death_and_bamboozle_your_foes/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/dng04g/otherworldly_patron_the_pale_legion_a_warlock/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/duidte/a_new_eldritch_invocation_for_you_to_realize_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/e2tuu8/mysterious_stranger_a_unique_artificer_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/e61tr8/47_new_spells_diatrisment_school_of_magic_effects/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ea47lj/monk_way_of_the_weave_jediinspired_thirdcaster/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eaotvx/feat_home_wrecker/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eapb56/artificer_biomancer_specialty_a_flesh_weaving/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ebg15s/monk_tradition_way_of_the_force/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/efy8g9/garden_gnome_subrace_for_all_your_gardening_needs/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/egcdet/monk_way_of_the_weave_jediinspired_thirdcaster/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ehjugp/fallen_celestial_bloodline_a_sorcerer_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ehnpb5/time_stop_revised_freeze_time_like_an_actual_9th/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ei2eas/power_words_expanded_bestow_potent_effects_upon/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ejtstx/way_of_the_crimson_soul_a_monastic_tradition_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eldgx6/mordenkainens_cigarette_break_a_spell_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/en6o6b/the_rouge_whenever_someone_misspells_rogue/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eoz1tm/warock_patron_the_retail_store_are_you_ready_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eqgrcv/a_joke_cantrip_for_those_who_complain_there_are/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/er21rf/the_spellweaver_5e_an_arcane_caster_that_directly/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/er2adq/the_resonant_a_homebrewed_sorcerer_subclass_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ercy4d/new_feat_theme_song/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/erjn0o/the_definitive_witcher_class_v20/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/es7ly7/attract_projectiles_and_reverse_projectiles_two/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/esc4p6/heroic_ancestry_a_martial_sorcerer_that_follows/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ess5b1/otherworldly_patron_the_timeless_one_a_warlock/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/esy035/floratarian_race_flower_power_has_a_whole_new/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/et0ml1/martial_archetype_witchblade_a_fighter_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eu628z/daniels_epilogue_the_last_word/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/evlpoy/omnisight_a_9thlevel_divination_that_lets_you_see/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/evs9ku/true_regeneration_a_doctor_who_inspired_spell_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ewqt49/the_witchblade_v13_a_fighter_subclass_that_takes/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eyiwy5/cleric_domain_astral_domain_v10_look_to_the_stars/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/eyyyl5/otherworldly_patron_the_hopeweaver_a_warlock/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ezk6mh/forbidden_lore_a_new_wizard_arcane_tradition/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ezrxgs/evolutionist_class_revisited_b2_added_durability/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f09w0u/sorcerous_origin_spells_official_ua_sorcerer/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f0gbgf/transport_via_mirrors_v12_step_through_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f0llty/item_my_party_freed_an_npc_from_her_contract_with/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f0sc4h/college_of_puppetry_homebrew_bard_college_v2/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f0uvxd/warlock_patron_vermillion_can_you_tame_the_hunger/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/f8c2bj/power_word_birth_a_9th_level_word_spell_from_meow/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fdwjke/otherworldly_patron_the_saint_a_warlock_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fg33on/pyromaniac_an_eldritch_invocation_for_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/filb8n/pact_of_the_cannon_a_pact_boon_for_gunslinging/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fj5k6e/halfdwarf_with_the_strength_and_honor_of_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fmf4lo/pureblood_dragonborn_what_the_phb_dragonborn/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fpp5g5/barbarian_path_of_the_slayer_rip_and_tear_until/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fq4psm/artificer_stitcher_create_your_own_undead/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fr7ocg/unfamiliar_familiars_because_really_there_should/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ft1fiq/player_race_faceless_stoic_masked_wanderers/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fug65l/old_gods_blessing_an_unsettling_buff_spell/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fux22b/repeater_a_useless_transmutation_spell/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fvz2my/a_1st_level_spell_to_protect_yourself_people/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fwevfi/backup_drive_hello_jack/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fyhydf/thieves_handshake/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/fzkwrq/stop_hitting_yourself_a_cantrip_for_bards_looking/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/g1y1s8/otherworldly_patron_the_voidwalker_warlock_patron/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/g3qu8f/druidic_circle_the_circle_of_the_hybrid_become_a/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/g9ipto/the_godkeeper_a_warlock_subclass_whose_patron/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ga96j5/two_variant_class_features_for_monks_who_favor/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/geil9g/soaring_vines_a_naturethemed_fly_alternative_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gfsx59/human_culture_feats_take_advantage_of_that_human/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gmswon/new_warlock_patron_the_allcrystal_v12/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gnss6n/hot_potato_dont_high_five_your_paladin/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gorqgw/otherworldly_patron_the_dungeon_master_imagine/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gq930v/class_feature_variant_signature_cantrip_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gv7y3w/colossification_that_town_guard_who_kicked_your/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gvbjt3/warlock_patron_the_ancient_phoenix/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gvr31l/for_when_a_dip_in_warlock_is_just_a_bit_to_costly/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gwou5g/the_hemopath_a_full_caster_that_uses_health/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gwprqs/waste_mage_class_use_shadow_magic_like_a_druid/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/gx6x20/warlock_subclass_eldritch_champion_martial_based/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h079ij/cleric_immortality_domain_play_as_this_chinese/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h0fc96/bow_of_chiron_shoot_for_the_stars_kiddo_and_youll/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h0iovy/tumbleweed_cantrip_for_a_bit_of_flavour_in_wild/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h13v3b/hollow_knight_class_archetypes_5e/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h7k5pi/kanala_class_v3_reformatted_and_now_known_as_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h7s8x3/the_riftborne_a_sorcerous_origin_of_those_few_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h7u3iw/symphonic_soul_become_the_conductor_of_an/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h84yd6/school_of_arcane_artillery_a_gish_type_firearm/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/h92nay/the_extradimensional_sorcerous_origin_for_all/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/haxd78/the_floridian_a_legendary_race_of_chaostouched/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hctbof/pact_of_the_blade_firearms/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hcv2g1/artificer_homebrew_subclass_pilot_v_11/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hdyrd3/eldritch_arcana_v19_play_a_fighter_that_teeters/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hfkwe1/variant_dragonborn_chromatic_add_some_flavor_and/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hgxkf0/moderately_useful_breath_weapon_a_dragonborn_feat/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hhrbpf/spell_reanimate_a_powerful_but_temporary_revivify/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hio4uf/rogue_archetype_quickster_become_a_blur_on_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hjloex/paladin_oath_of_destiny_doom_your_enemies_with/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hjx7oj/warlock_dearly_departed_v1_when_life_without_them/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hkcm92/the_fletcher_an_artificer_specialization_a_better/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hkfmma/oath_of_arcane_judgement_a_paladin_oath_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hl207i/j%C3%B6tnunkyn_a_player_race_inspired_by_the_stories/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hno27w/dinosaur_cat_saw_a_post_on_awww_and_was_inspired/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hnqdpj/power_puncher_for_the_7_year_old_who_doesnt_know/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hqiqad/buildabeastfolk_a_modular_approach_to_creating/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hr0no7/new_feat_last_dying_breath/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hrn90j/artificer_archetype_the_dronemason_create_many/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hrulug/otherworldy_patron_the_warehouse_for_when_you/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hsx9k9/memento_mori_an_offensive_divination_spell_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hu3j0z/way_of_the_third_eye_monk_a_blind_monk_subclass/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hv7lef/the_dvati_one_soul_two_bodies_a_balanced_race_of/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hvnjl9/reckless_arcana_a_selfdestructive_sorcerous/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hvswpf/monk_way_of_the_guiding_spirit_follow_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hvv3fp/roguish_archetype_the_improvisor_think_outside/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hvzrkx/wizard_subclass_school_of_scrivenation/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hw5vs7/im_going_to_steal_your_bones_a_fun_new_spell_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hw81xs/the_spellsword_sorcerous_origin_for_those_who/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hwbqf7/protopyr_fight_fire_gods_with_fire_or_burn_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hwks1b/arcane_protector_alternative_arcane_fighter/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hwlnyp/otherworldy_patron_the_warehouse_v20_for_when_you/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hwm02m/the_firebrand_a_revolutionary_class_for_colonial/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hwosxw/artificer_specialist_tesla_a_master_of_lightning/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hx1ssd/class_the_witch_30_were_back_witches_from_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hxqehn/otherworldly_patron_the_foretold_your_patron/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hyjnix/samurai_v2_a_new_class_with_5_bushi_clan/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hz0esu/marksman_a_roguish_archetype_for_those_who_like/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hz1xu1/visionary_gunsmith_customize_your_own_ranged/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hz2dwo/otherworldly_patron_the_puppeteer_v30_with_4/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/hzn85i/the_daredevil_a_roguish_archetype_for_adrenaline/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i0x3y0/the_savant_combat_update_a_brilliant/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i174h6/the_shaman_class_updated_to_ver_24_full_pdf/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i1nac1/sin_tempt_your_enemies_with_sinful_thoughts/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i2bqcr/storm_magic_4_spells_to_push_your_powers_to_their/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i2cl76/variant_shadow_magic_sorcerer_origin_exist_beyond/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i3kczr/six_cantrips_to_spice_up_lowlevel_play/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i3t0p6/power_word_bees_a_spell_by_insect_enthusiasts_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i4r3ec/caravaneer_build_a_walking_home_base_with_this/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i5i0d0/the_soulkeeper_a_new_5e_homebrew_ranger_archetype/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i62muu/the_mermaid_part_of_your_world/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i78e3u/the_alternate_sorcerer_updated_become_the_source/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i7tu9n/legend_make_your_heroes_or_villains_a_living/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i91nu9/manipulate_fate_a_9th_level_spell_for_when_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/i9lsx5/arcane_tradition_immortality_why_should_liches/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ia5oao/martial_archetype_demon_slayer_5e_v2_hunt/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iajn9f/wildcard_roguish_archetype_never_lost_a_fair_game/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iasroc/sorcery_of_the_weave_use_weapons_as_needles_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ibgm0c/the_alternate_ranger_updated_become_the_ultimate/g1vg7o3/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ic0qpa/stormheart_v12_a_rogue_archetype_that_strikes/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ic6yrw/whip_mastery_feat_inspired_by_castlevania/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/icmrd5/a_new_9th_level_evocation_spell_awakened_infero/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ictoyi/eruption_a_spell_for_highlevel_chaosloving/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/icwcp3/avatar_star_wars_final_fantasy_wheel_of_time/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/id7fq3/sonic_boom_9th_level_evocation/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/idhcch/monk_way_of_the_guiding_spirit_v12_follow_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/idwwz5/fall_guys/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/if1mmt/radiant_mark_a_cantrip_to_make_melee_clerics/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ifgqu5/mikes_hard_lemonade_as_inspired_by_dndmemes/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/igig3p/bizarre_substitution_when_youre_into_pranks_but/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/igyg46/paladin_oath_of_storms_unleash_the_tempest_inside/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ihmxr1/orc_wizard_rak_also_have_names_adjective_noun/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ii74b5/the_caped_crusader_embody_the_versatility_of_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ij9epb/mordenkainens_unsheathed_sword_the_true_version/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ikh0d5/occultist_10_by_kibblestasty_oracles_shamans/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ikmh2z/the_heart_of_glass_summon_a_medium_water/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iknxsb/muscle_wizard_i_cast_fist_three_increasingly_more/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ila6pl/bard_college_college_of_lofi_beats_to_studyrelax/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/inc2rr/the_weaveknight_10_an_arcane_halfcaster_warrior/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ioom94/the_way_of_sanctuary_a_dual_wield_shield_strength/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ipco60/kibbles_psion_v13_read_minds_manifest_astral/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iq4bpx/the_spook_updated_final_version_hunt_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iqqch6/martial_archetype_sand_soldier_summon_weapons_and/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/irc58o/5e_witcher_class_v20_a_simple_robust_and_faithful/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/irhzov/the_vengeful_feat_for_when_youre_just_too_pissed/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/irkk0d/the_marksman_20_the_classic_ranged_martial/g4z81mg/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/irv2gb/warlock_patron_the_yandere/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iryg7c/warlock_specific_eldritch_blast_variants_6_blast/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/isxwgy/intercept_for_the_deadeye_wizards_whod_rather/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/itv65e/a_homebrew_item_set_centered_around_antimagic_and/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iu80a2/the_sybercyl_unlock_your_bodys_true_potential/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iugm64/plummet_surprisingly_bad_for_your_knees/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iukl0y/the_ghost_ship_a_ghastly_otherworldly_patron_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iv5eey/warlock_the_seed_of_evil_corrupt_the_world_and/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ix0342/impostor_race_from_among_us/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iy3xbu/the_heretic_domain_for_the_clerics_who_want_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iyinnq/prismatic_bolt_a_cantrip_for_the_ardent_artificer/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/iyy2gu/circle_of_coral_and_barrier_two_aquaticthemed/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j37kfo/did_your_patron_make_you_an_offer_you_couldnt/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j4ityl/false_identity_9thlevel_illusion_begin_again/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j5jii4/spell_dodge_step_teleports_behind_you_nothin/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j72ek7/summon_an_enormous_creature_to_fight_by_your_side/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j7d7pl/way_of_the_weave_jediinspired_thirdcaster/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j8uw28/overdrive_chuckles_youre_in_danger/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/j99slo/the_vandal_wizard_subclass_so_i_heard_you_have_a/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jac1f3/warlock_subclass_eldritch_champion_martial_based/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jbnrnr/biosmith_artificer_subclass_craft_a_bespoke/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jdzre1/stay_of_execution_a_new_necromancy_spell_to_keep/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jeg9t0/university_student_a_feat_for_studying_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jldt4d/the_summoner_a_fatestyled_masterservant_class/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jqut7t/insomniac_a_feat_for_the_weary_ones/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ju0zjc/the_commoner_v2_a_fullyplayable_support_class_now/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/juolfx/frost_domain_a_divine_domain_for_clerics_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/jutgun/otherworldly_patron_the_yellow_king_v10/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k04icl/the_edgelord_11_3_new_subclasses_6_total_to/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k0vdmt/card_trick_add_some_random_variety_to_your/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k33b27/sorcerer_cryomancy_become_the_eternal_frost/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k5i72b/perish_song_a_deadly_spell_for_bards_based_on_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k5nfxu/eldritch_strike_and_invocations_because_eldritch/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k6nm4o/a_collection_of_subclasses_including_evangelism/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k6qdx0/way_of_the_ki_strings_a_monastic_tradition_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7bp2b/crushing_grasp_a_spell_to_show_that_pesky_noble_a/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7lz0w/path_of_tremors_this_isnt_what_i_meant_when_i/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7m0pf/ranger_storm_warden_channel_the_power_of_storms/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7nkuu/bulwark_martial_archetype_i_am_an_indestructible/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7ozjb/the_ancient_patron_my_first_creation_please_give/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k7v0s1/4_new_spells_inspired_by_legend_of_zelda_breath/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/k83eyz/series_of_subclasses_new_subclasses_for_5e/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kbkohb/hivemind_synapse_a_custom_background_for_all_your/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kctpci/alluring_song_the_bardiest_bard_spell_for_being_a/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kdofsv/the_savant_final_update_for_the_curated_list_a/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ker4sf/the_witch_play_as_this_fairytale_jinx_slinging/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kls3k2/druid_circle_of_the_unknown_theres_more_than_the/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kmocac/cleric_cantrip_brightlance/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kn26sr/the_pact_arsenal_an_invocation_supplement_for/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/knpzbq/menagerist_usher_in_a_mew_year_with_a_petfriendly/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kp3p0i/sacred_oath_oath_of_getting_blackout_drunk_and/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kqa20s/arcane_tradition_fleshwarping_a_wizard_that/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ktvsop/eldritch_invocations_gifts_of_the_blade_by/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kvpygs/personal_assistant_cantrip_faer%C3%BBns_favourite/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ky0sru/demonomicon_maw_of_abyss_level_9_wizard_spell/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/kyiu4n/uglycute_a_feat_for_those_who_suffer_with/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/l0bt46/fighter_archetype_commando_shipmaster_they/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/l183cb/tired_of_being_a_squishy_wizard_or_sorcerer/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/l1mid8/path_of_the_dad_mage_hand_press/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/l7r7li/bolting_blitz_rush_your_enemies_with_this/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/low23m/desolation_9thlevel_blasting_necromancy_that_can/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/loxd8g/displacer_kitten_an_adorably_fierce_warlock/"
+  },
+  {
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/lpnxoh/ancestral_runes_spice_up_your_items_with_powerful/"
+  },
+  {
+    "link": "https://www.reddit.com/r/dndmemes/comments/enpr1w/florida_man_plays_dnd/"
+  },
+  {
+    "link": "https://www.reddit.com/r/dndnext/comments/9t7lu5/i_made_a_list_of_beasts_for_conjure_animals_with/"
+  },
+  {
+    "link": "https://www.reddit.com/r/pathbrewer/comments/9xghg3/the_hemomancer_base_class_aka_the_blood_mage/"
+  },
+  {
+    "link": "https://www.reddit.com/r/pathbrewer/comments/bjw8zs/fiend_knight_a_homebrew_fighter_archetypehybrid/"
+  }
+]
