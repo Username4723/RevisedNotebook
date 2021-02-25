@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "page": {
+      "$id": "#page",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text": {
+          "oneOf": [
+            {
+              "type": "string",
+              "enum": [ "external" ]
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          ]
+        },
+        "images": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "link": {
+                "type": "string",
+                "minLength": 1
+              },
+              "caption": {
+                "type": "string",
+                "minLength": 1
+              },
+              "subcaption": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "subpages": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": {
+            "$ref": "#page"
+          }
+        }
+      },
+      "required": [ "title" ],
+      "additionalProperties": false
+    }
+  },
+
+  "$ref": "#page"
+}

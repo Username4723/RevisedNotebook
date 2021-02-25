@@ -18,7 +18,9 @@
 
 **Type**. String. One of "spell", "feat", "class", "expansion", "race", "background", "familiar", "subclass"
 
-**Subtype**. String. Optional. If this is a subrace or subclass, note what it is for.
+**Supertype**. String. Optional. If this is a subrace or subclass, note what it is for.
+
+**Level**. Integer. Optional. If this is a spell, indicate what level it is
 
 **Link**. String. A link to the source of the homebrew. Ideally this should be a link that includes the author, such as an origianl post, and not just the author.
 

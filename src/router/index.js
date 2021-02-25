@@ -4,20 +4,27 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 
-import HomePage from "../components/HomePage.vue"
+import HomePage from "@/components/HomePage.vue"
 
-import NotFound from "../components/NotFound.vue"
-import WorkInProgress from "../components/WorkInProgress.vue"
+import Validator from "@/components/Validator.vue"
+import NotFound from "@/components/NotFound.vue"
+import WorkInProgress from "@/components/WorkInProgress.vue"
 
-import References from "../components/game/References.vue"
+import References from "@/components/game/References.vue"
 
-import World from "../components/game/World.vue"
-import Campaign from "../components/game/Campaign.vue"
-import Character from "../components/game/Character.vue"
+import World from "@/components/game/World.vue"
+import Campaign from "@/components/game/Campaign.vue"
+import Character from "@/components/game/Character.vue"
 
 const routes = [
   { path: '', component: HomePage },
   { path: '/wip', component: WorkInProgress }, // Avoid unused error
+
+  {
+    path: '/debug',
+    name: 'debug',
+    component: Validator
+  },
 
   {
     path: '/references',
