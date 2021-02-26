@@ -3,6 +3,7 @@
   "definitions": {
     "page": {
       "$id": "#page",
+      "type": "object",
       "properties": {
         "title": {
           "type": "string",

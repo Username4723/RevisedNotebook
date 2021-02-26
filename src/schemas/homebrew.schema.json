@@ -3,6 +3,7 @@
   "definitions": {
     "homebrew": {
       "$id": "#homebrew",
+      "type": "object",
       "properties": {
         "name": {
           "type": "string",
