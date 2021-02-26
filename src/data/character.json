@@ -64,6 +64,30 @@
           }
         ]
       },
+      "mel": {
+        "title": "Mel",
+        "text": [
+          "A Changeling Bard and a noble running from their post, this character was brokenly overpowered."
+        ],
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ]
+      },
+      "lyrune": {
+        "title": "Lyrune",
+        "text": [
+          "A shy (half?)-elf Barbarian I used to play."
+        ],
+        "images": [
+          {
+            "caption": "Appearance",
+            "link": "appearance.png"
+          }
+        ]
+      },
       "siceo": {
         "title": "Siceo Zycie",
         "text": "external"
