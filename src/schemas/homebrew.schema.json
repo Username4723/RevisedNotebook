@@ -12,6 +12,14 @@
           "type": "string",
           "enum": [ "spell", "feat", "class", "expansion", "race", "background", "familiar", "subclass", "subrace" ]
         },
+        "tags": {
+          "type": "array",
+          "minLength": 1,
+          "items": {
+            "type": "string",
+            "enum": [ "magic", "digital", "souls", "revival", "nonmechanical", "joke", "external" ]
+          }
+        },
         "subtype": {
           "type": "string",
           "minLength": 1
