@@ -2,7 +2,26 @@
   "crashlanding": {
     "title": "Crash Landing (Needs Players!)",
     "text": "external",
-    "world": "fantasy3"
+    "world": "fantasy3",
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -2,
+          "maximum": 2
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "digital", "external" ]
+            }
+          }
+        }
+      }
+    }
   },
   "diamond": {
     "title": "A Diamond Heart",
@@ -18,6 +37,25 @@
           "lore1": {
             "title": "Lore Fragment 1",
             "text": "external"
+          }
+        }
+      }
+    },
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -3,
+          "maximum": 3
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "digital" ]
+            }
           }
         }
       }
@@ -54,6 +92,25 @@
           }
         ]
       }
+    },
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -2,
+          "maximum": 2
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "revival", "souls" ]
+            }
+          }
+        }
+      }
     }
   },
   "survival": {
@@ -68,6 +125,25 @@
       "sacrifice": {
         "title": "Sacrifice of Elpye",
         "text": "external"
+      }
+    },
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -2,
+          "maximum": 2
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "digital", "joke", "external" ]
+            }
+          }
+        }
       }
     }
   },
@@ -133,6 +209,25 @@
           "visions": {
             "title": "Visions",
             "text": "external"
+          }
+        }
+      }
+    },
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -2,
+          "maximum": 2
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "digital", "joke", "external" ]
+            }
           }
         }
       }

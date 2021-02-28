@@ -79,6 +79,14 @@
                 <b-row v-if="page.table">
                   <b-table :items="page.table.items"></b-table>
                 </b-row>
+
+
+                <!-- row 3 - custom content -->
+                <b-row>
+                  <b-col>
+                    <slot name="footer" v-bind:rootPage="rootPage" v-bind:page="page"></slot>
+                  </b-col>
+                </b-row>
               </b-container>
             </b-card-body>
           </div>

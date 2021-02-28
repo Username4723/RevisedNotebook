@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import PageViewer from './PageViewer.vue'
+import PageViewer from './helpers/PageViewer.vue'
 
 export default {
   components: {
