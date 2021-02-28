@@ -16,7 +16,7 @@
         </div>
       </b-row>
       <b-row v-if="page.subpages" class="mb-1">
-        <b-collapse :id="key">
+        <b-collapse :accordion="'a-' + route" :id="key">
           <b-card>
             <RecursiveNavbar :pages="page.subpages" :type="type" :route="route == '' ? key : route + '.' + key"></RecursiveNavbar>
           </b-card>
