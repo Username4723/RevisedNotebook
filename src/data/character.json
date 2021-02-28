@@ -64,6 +64,10 @@
           }
         ]
       },
+      "siceo": {
+        "title": "Siceo Zycie",
+        "text": "external"
+      },
       "mel": {
         "title": "Mel",
         "text": [
@@ -87,10 +91,6 @@
             "link": "appearance.png"
           }
         ]
-      },
-      "siceo": {
-        "title": "Siceo Zycie",
-        "text": "external"
       }
     }
   },
