@@ -4,13 +4,13 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
 
-import HomePage from "@/components/HomePage.vue"
-
-import Validator from "@/components/Validator.vue"
-import NotFound from "@/components/NotFound.vue"
-import WorkInProgress from "@/components/WorkInProgress.vue"
+import HomePage from "@/components/pages/HomePage.vue"
+import Validator from "@/components/pages/Validator.vue"
+import NotFound from "@/components/pages/NotFound.vue"
+import WorkInProgress from "@/components/pages/WorkInProgress.vue"
 
 import References from "@/components/game/References.vue"
+import Homebrew from "@/components/game/Homebrew.vue"
 
 import World from "@/components/game/World.vue"
 import Campaign from "@/components/game/Campaign.vue"
@@ -30,6 +30,11 @@ const routes = [
     path: '/references',
     name: 'references',
     component: References
+  },
+  {
+    path: '/homebrew',
+    name: 'homebrew',
+    component: Homebrew
   },
 
   {

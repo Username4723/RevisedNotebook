@@ -1,5 +1,5 @@
 <template>
-  <b-table sticky-header hover :items="brew" :fields="fields" primary-key="link">
+  <b-table hover :items="brew" :fields="fields" primary-key="link" sort-by="name">
     <template #cell(actions)="row">
       <b-button size="sm" variant="outline-primary" :to="row.item.link" class="mr-1">View Homebrew</b-button>
       <b-button size="sm" variant="outline-primary" v-if="row.item.notes || row.item.changes" @click="row.toggleDetails"> {{ row.detailsShowing ? 'Hide' : 'Show' }} Details </b-button>
@@ -52,7 +52,20 @@ export default {
           }
         },
         {
-          key: 'actions'
+          key: 'tags',
+          label: 'Tags',
+          sortable: false,
+          formatter: value => value ? [...value].sort().map(it => it[0].toUpperCase() + it.substring(1, it.length)).join(", ") : ""
+        },
+        {
+          key: 'gsheet',
+          label: 'GSheet-Compatible',
+          sortable: true,
+          formatter: value => value ? "Yes" : "No"
+        },
+        {
+          key: 'actions',
+          sortable: false
         }
       ]
     }
