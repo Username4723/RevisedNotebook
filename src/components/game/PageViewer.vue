@@ -42,7 +42,7 @@
                     <b-card-sub-title v-if="rootPage.title != page.title" sub-title-text-variant=""> {{ page.title }} </b-card-sub-title>
                   </b-col>
                   <b-col class="text-right">
-                    <slot name="header" v-bind:rootPage="rootPage"></slot>
+                    <slot name="header" v-bind:rootPage="rootPage" v-bind:page="page"></slot>
                   </b-col>
                 </b-row>
               </b-container>
