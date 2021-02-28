@@ -1,7 +1,7 @@
 <template>
   <b-table hover :items="brew" :fields="fields" primary-key="link" sort-by="name">
     <template #cell(actions)="row">
-      <b-button size="sm" variant="outline-primary" :to="row.item.link" class="mr-1">View Homebrew</b-button>
+      <b-button size="sm" variant="outline-primary" :href="row.item.link" class="mr-1">View Homebrew</b-button>
       <b-button size="sm" variant="outline-primary" v-if="row.item.notes || row.item.changes" @click="row.toggleDetails"> {{ row.detailsShowing ? 'Hide' : 'Show' }} Details </b-button>
     </template>
 
