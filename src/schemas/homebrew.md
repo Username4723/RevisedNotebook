@@ -14,7 +14,7 @@
 
 **Name**. String. The title of the homebrew to be submitted. Capitalize according to title conventions.
 
-**Complete**. If this is false, this item has not been 'graded'
+**Gsheet**. Boolean. Whether this content has been added to Red's GSheet
 
 **Type**. String. One of "spell", "feat", "class", "expansion", "race", "background", "familiar", "subclass"
 

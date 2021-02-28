@@ -79,7 +79,7 @@
           "type": "string",
           "minLength": 1
         },
-        "completed": {
+        "gsheet": {
           "type": "boolean"
         }
       },
