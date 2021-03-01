@@ -1,15 +1,15 @@
 <template>
-  <b-table hover :items="brew" :fields="fields" primary-key="link" sort-by="name">
+  <b-table hover :items="brew" :fields="fields" primary-key="name" :tbody-transition-props="{ name: 'flip-list' }" sort-by="name">
     <template #cell(actions)="row">
       <b-button size="sm" variant="outline-primary" :href="row.item.link" class="mr-1">View Homebrew</b-button>
       <b-button size="sm" variant="outline-primary" v-if="row.item.notes || row.item.changes" @click="row.toggleDetails"> {{ row.detailsShowing ? 'Hide' : 'Show' }} Details </b-button>
     </template>
 
     <template #row-details="row">
-      <b-card>
-        <span v-if="row.item.changes">Required Changes: {{ row.item.changes }} </span>
-        <span v-if="row.item.notes">Additional Notes: {{ row.item.notes }} </span>
-      </b-card>
+        <b-card>
+          <span v-if="row.item.changes">Required Changes: {{ row.item.changes }} </span>
+          <span v-if="row.item.notes">Additional Notes: {{ row.item.notes }} </span>
+        </b-card>
     </template>
   </b-table>
 </template>
@@ -43,7 +43,7 @@ export default {
         {
           key: 'balance',
           label: 'Balance',
-          sortable: false,
+          sortable: true,
           formatter: value => {
             if (value == 0) return "Perfectly Balanced"
             let result = [undefined, "Slightly", "Somewhat", "", "Gamebreakingly", "Campaign-breakingly"][Math.abs(value)]
@@ -72,3 +72,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+table >>> .flip-list-move {
+  transition: transform 1s;
+}
+</style>
