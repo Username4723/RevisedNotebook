@@ -9,9 +9,8 @@
           </b-card-header>
           <b-card-body>
             <b-button :pressed.sync="hidePassing" :variant="hidePassing ? 'danger' : 'success' "> {{ hidePassing ? "Show Passing" : "Hide Passing" }} </b-button>
-            Failing Total: {{ failingPages + failingHomebrew }}
-            Failing Pages: {{ failingPages }}
-            Failing Homebrew: {{ failingHomebrew }}
+            <br/>
+            <b-table :items="stats"/>
           </b-card-body>
         </b-card>
       </b-col>
@@ -101,17 +100,42 @@ export default {
 
       return data;
     },
+
     failingPages: function() {
       return Object.values(this.failingData.pages).map(it => Object.values(it).length).reduce((value, acc) => acc + value, 0)
     },
     failingHomebrew: function() {
       return Object.values(this.failingData.homebrew).length
     },
+    totalPages: function() {
+      return Object.values(this.pages).map(it => Object.values(it).length).reduce((value, acc) => acc + value, 0)
+    },
+
     pageSchema: function() {
       return ajv.compile(require('@/schemas/page.schema.json'))
     },
     homebrewSchema: function() {
       return ajv.compile(require('@/schemas/homebrew.schema.json'))
+    },
+
+    stats: function() {
+      return [
+        {
+          "name": "Combined",
+          "pages": this.totalPages,
+          "homebrew": this.homebrew.length
+        },
+        {
+          "name": "Failing",
+          "pages": this.failingPages,
+          "homebrew": this.failingHomebrew
+        },
+        {
+          "name": "Passing",
+          "pages": this.totalPages - this.failingPages,
+          "homebrew": this.homebrew.length - this.failingHomebrew
+        }
+      ]
     }
   }
 }
