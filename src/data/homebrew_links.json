@@ -1,160 +1,277 @@
 [
   {
-    "name": "Edgelord",
-    "type": "background",
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ier6w6/edgelord_backround_for_5e_have_you_met_edgelord/",
     "balance": 0,
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ier6w6/edgelord_backround_for_5e_have_you_met_edgelord/",
+    "name": "Edgelord",
     "tags": [
       "joke"
-    ]
+    ],
+    "type": "background"
   },
   {
-    "name": "Monster Hunter",
-    "type": "background",
+    "balance": 0,
     "link": "https://www.dandwiki.com/wiki/Monster_Hunter_(5e_Background)",
-    "balance": 0
+    "name": "Monster Hunter",
+    "type": "background"
   },
   {
-    "name": "Sadistic Assassin",
-    "type": "background",
-    "link": "https://www.dandwiki.com/wiki/Sadistic_Assassin_(5e_Background)",
     "balance": 1,
-    "notes": "Balance explanation: Provides a residence or similar. Please contact the DM to work out finer details regarding this."
+    "link": "https://www.dandwiki.com/wiki/Sadistic_Assassin_(5e_Background)",
+    "name": "Sadistic Assassin",
+    "notes": "Balance explanation: Provides a residence or similar. Please contact the DM to work out finer details regarding this.",
+    "type": "background"
   },
   {
-    "name": "Split Personality",
-    "type": "background",
-    "link": "https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)",
     "balance": 1,
     "changes": "Limit the amount of personalities to 3 at most for the ease of the DM.",
+    "link": "https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)",
+    "name": "Split Personality",
+    "notes": "Balance explanation: Provides several proficiencies.",
     "tags": [
       "nonmechanical"
     ],
-    "notes": "Balance explanation: Provides several proficiencies."
+    "type": "background"
   },
   {
-    "name": "Awakened Cat",
-    "type": "race",
-    "link": "https://homebrewery.naturalcrit.com/share/SJHYdnaiVz",
     "balance": 0,
+    "link": "https://homebrewery.naturalcrit.com/share/SJHYdnaiVz",
+    "name": "Awakened Cat",
+    "notes": "Please contact the DM if you chose to go this race to work on your backstory.",
     "tags": [
       "souls"
     ],
-    "notes": "Please contact the DM if you chose to go this race to work on your backstory."
+    "type": "race"
   },
   {
-    "name": "Bunneth",
-    "type": "race",
+    "balance": 0,
     "link": "https://mydnd.tumblr.com/post/174247219184",
-    "balance": 0
+    "name": "Bunneth",
+    "type": "race"
   },
   {
+    "balance": 3,
+    "link": "https://dandwiki.com/wiki/Lucario_(5e_Race)",
     "name": "Lucario",
-    "type": "race",
-    "link": "https://dandwiki.com/wiki/Lucario_(5e_Race)"
+    "notes": "Balance explanation: Can see invisible creatures within 60ft, combined with the Relentless Endurance, a weaker version of Fey Ancestry, and a free cantrip.",
+    "tags": [
+      "external"
+    ],
+    "type": "race"
   },
   {
+    "balance": 1,
+    "link": "https://dnd-5e-homebrew.tumblr.com/post/136606911851/kitsune-race-by-homicidalhotdog/amp",
     "name": "Kitsune",
-    "type": "race",
-    "link": "https://dnd-5e-homebrew.tumblr.com/post/136606911851/kitsune-race-by-homicidalhotdog/amp"
+    "type": "race"
   },
   {
+    "balance": 0,
+    "link": "https://dnd5e.wikidot.com/wizard:theurgy-ua",
     "name": "School of Theurgy",
-    "type": "subclass",
     "subtype": "wizard",
-    "link": "https://dnd5e.wikidot.com/wizard:theurgy-ua"
+    "tags": [
+      "divine",
+      "magic"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 0,
+    "link": "https://drive.google.com/file/d/15_iI7yXnvBwwYOuTo-YRugwE45rcEHoI/view",
     "name": "Startouched",
-    "type": "subclass",
     "subtype": "sorcerer",
-    "link": "https://drive.google.com/file/d/15_iI7yXnvBwwYOuTo-YRugwE45rcEHoI/view"
+    "tags": [
+      "magic"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 4,
+    "link": "https://drive.google.com/file/d/1L54_mIBtwPhn-SYwGHCotP-O56WrALXP/view",
     "name": "The King in Yellow",
-    "type": "subclass",
+    "notes": "Balance explanation: The 14th-level ability is an instant kill and annoying to DM, as well as not well thought out.",
     "subtype": "warlock",
-    "link": "https://drive.google.com/file/d/1L54_mIBtwPhn-SYwGHCotP-O56WrALXP/view"
+    "tags": [
+      "magic",
+      "divine"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 1,
+    "changes": "Losing reinforced weapons should work how an Artificer loses infusions if it goes over.",
+    "link": "https://drive.google.com/file/d/1Z4Jh4WnpbQRH2rE9zF2AF2D3zJeAc6k5/view",
     "name": "Iron Soul",
-    "type": "subclass",
+    "notes": "Power does not grow casually but instead spikes at 6th and 18th level",
     "subtype": "sorcerer",
-    "link": "https://drive.google.com/file/d/1Z4Jh4WnpbQRH2rE9zF2AF2D3zJeAc6k5/view"
+    "tags": [
+      "magic"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 0,
+    "link": "https://drive.google.com/file/d/1gJQc_9b0I0foeAxFw3YBPE65g2pvUIni/view",
     "name": "Avocato",
-    "type": "familiar",
-    "link": "https://drive.google.com/file/d/1gJQc_9b0I0foeAxFw3YBPE65g2pvUIni/view"
+    "type": "familiar"
   },
   {
+    "balance": 3,
+    "link": "https://homebrewery.naturalcrit.com/share/HkWQ9Xh0ON",
     "name": "Lunar Snipe Conclave",
-    "type": "subclass",
+    "notes": "Balance explanation: The 15th level ability is blatantly overpowered, along with the 3rd level ability",
     "subtype": "ranger",
-    "link": "https://homebrewery.naturalcrit.com/share/HkWQ9Xh0ON"
+    "type": "subclass"
   },
   {
+    "balance": 1,
+    "link": "https://homebrewery.naturalcrit.com/share/HkuuSHd54",
     "name": "Oath of the Unconquered",
-    "type": "paladin",
-    "link": "https://homebrewery.naturalcrit.com/share/HkuuSHd54"
+    "subtype": "paladin",
+    "tags": [
+      "magic"
+    ],
+    "type": "class"
   },
   {
+    "balance": 0,
+    "link": "https://homebrewery.naturalcrit.com/share/S1bbMZp1bU",
     "name": "Hematurgist",
-    "type": "class",
-    "link": "https://homebrewery.naturalcrit.com/share/S1bbMZp1bU"
+    "notes": "The Hematurgist table does not render past 3rd level.",
+    "tags": [
+      "broken-link"
+    ],
+    "type": "class"
   },
   {
+    "balance": 3,
+    "link": "https://homebrewery.naturalcrit.com/share/rJKgfR5af",
     "name": "Oath of the Darkness",
-    "type": "subclass",
+    "notes": "Balance explanation: Skirts death at 18th and 20th level",
     "subtype": "paladin",
-    "link": "https://homebrewery.naturalcrit.com/share/rJKgfR5af"
+    "tags": [
+      "magic",
+      "souls"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 2,
+    "link": "https://homebrewery.naturalcrit.com/share/ryWTS6m9N",
     "name": "Oath of the Grim Hunt",
-    "type": "subclass",
+    "notes": "Does not gain power evenly though levels",
     "subtype": "paladin",
-    "link": "https://homebrewery.naturalcrit.com/share/ryWTS6m9N"
+    "tags": [
+      "magic"
+    ],
+    "type": "subclass"
   },
   {
+    "balance": -1,
+    "link": "https://i.redd.it/muf87sbrqwr21.jpg",
     "name": "Toonkind",
-    "type": "race",
-    "link": "https://i.redd.it/muf87sbrqwr21.jpg"
+    "tags": [
+      "external"
+    ],
+    "type": "race"
   },
   {
-    "link": "https://jemmora.com/2018/06/20/5e-vampire-class/"
+    "balance": 0,
+    "link": "https://jemmora.com/2018/06/20/5e-vampire-class/",
+    "name": "Vampire",
+    "notes": "The site does not load on my machine.",
+    "tags": [
+      "replica",
+      "broken-link"
+    ],
+    "type": "class"
   },
   {
     "link": "https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf"
   },
   {
-    "link": "https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf"
+    "balance": 3,
+    "link": "https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf",
+    "name": "Mystic (UA)",
+    "notes": "Subject to DM approval on a case-by-case basis.",
+    "tags": [
+      "magic"
+    ],
+    "type": "class"
   },
   {
     "link": "https://mfov.magehandpress.com/2017/07/power-word-spells.html"
   },
   {
-    "link": "https://old.reddit.com/r/UnearthedArcana/comments/agfb05/5e_path_of_the_bladestorm_barbarian_hurl_weapons/"
+    "balance": -2,
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/agfb05/5e_path_of_the_bladestorm_barbarian_hurl_weapons/",
+    "name": "Path of the Bladestorm",
+    "subtype": "barbarian",
+    "type": "subclass"
   },
   {
-    "link": "https://old.reddit.com/r/UnearthedArcana/comments/aq7nxc/5e_way_of_the_outcast_monk_a_monk_that_has_lost/"
+    "balance": 1,
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/aq7nxc/5e_way_of_the_outcast_monk_a_monk_that_has_lost/",
+    "name": "Way of the Outcast",
+    "subtype": "monk",
+    "type": "subclass"
   },
   {
-    "link": "https://old.reddit.com/r/UnearthedArcana/comments/ayius4/path_of_the_dishonored_for_those_who_seek_death/"
+    "balance": -1,
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ayius4/path_of_the_dishonored_for_those_who_seek_death/",
+    "name": "Path of the Dishonored",
+    "notes": "Missing Channel Divinity features",
+    "subtype": "paladin",
+    "tags": [
+      "magic",
+      "incomplete"
+    ],
+    "type": "subclass"
   },
   {
-    "link": "https://www.5esrd.com/database/race/satyr"
+    "balance": 0,
+    "link": "https://www.5esrd.com/database/race/satyr",
+    "name": "Satyr (5esrd.com)",
+    "tags": [
+      "replica"
+    ],
+    "type": "race"
   },
   {
-    "link": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/titan-mauler/"
+    "balance": 0,
+    "link": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/titan-mauler/",
+    "name": "Path of the Titan Mauler",
+    "notes": "I am not qualified to assess pathfinder balance.",
+    "subtype": "barbariam",
+    "tags": [
+      "pathfinder"
+    ],
+    "type": "subclass"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Additional_Artificer_Infusions_(5e_Class_Feature)"
+    "balance": 3,
+    "link": "https://www.dandwiki.com/wiki/Additional_Artificer_Infusions_(5e_Class_Feature)",
+    "name": "Additional Artificer Infusions",
+    "notes": "Balance explanation: Completely outdoes existing infusions by far at earlier levels.",
+    "subtype": "artificer",
+    "tags": [
+      "magic"
+    ],
+    "type": "subclass"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Aligrine_(5e_Race)"
+    "balance": -2,
+    "link": "https://www.dandwiki.com/wiki/Aligrine_(5e_Race)",
+    "name": "Aligrine",
+    "notes": "An Aarakocra is more powerful.",
+    "type": "race"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Arrow_of_1,000_Stars_(5e_Feat)"
+    "balance": 3,
+    "link": "https://www.dandwiki.com/wiki/Arrow_of_1,000_Stars_(5e_Feat)",
+    "name": "Arrow of 1,000 Stars",
+    "notes": "Balance explanation: Allows for compounding critical attack rolls",
+    "type": "feat"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)"

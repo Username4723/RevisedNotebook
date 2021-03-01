@@ -1,123 +1,56 @@
 {
+  "$ref": "#rootItem",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "definitions": {
-    "rootItem": {
-      "$id": "#rootItem",
-      "type": "object",
-      "oneOf": [
-        {
-          "$ref": "#homebrew",
-          "type": "object",
-          "properties": {
-            "link": {
-              "type": "string",
-              "format": "uri"
-            }
-          },
-          "required": [ "link" ]
-        },
-        {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string",
-              "minLength": 1
-            },
-            "link": {
-              "type": "string",
-              "format": "uri"
-            },
-            "type": {
-              "type": "string",
-              "enum": [ "compendium" ]
-            },
-            "items": {
-              "type": "array",
-              "items": {
-                "$ref": "#homebrew"
-              }
-            }
-          },
-          "required": [ "name", "link", "type", "items" ]
-        }
-      ]
-    },
     "homebrew": {
       "$id": "#homebrew",
-      "type": "object",
-      "properties": {
-        "name": {
-          "type": "string",
-          "minLength": 1
-        },
-        "type": {
-          "type": "string",
-          "enum": [ "spell", "feat", "class", "expansion", "race", "background", "familiar", "subclass", "subrace" ]
-        },
-        "tags": {
-          "type": "array",
-          "minLength": 1,
-          "items": {
-            "type": "string",
-            "enum": [ "magic", "digital", "souls", "revival", "nonmechanical", "joke", "external" ]
-          }
-        },
-        "subtype": {
-          "type": "string",
-          "minLength": 1
-        },
-        "balance": {
-          "type": "integer",
-          "minimum": -5,
-          "maximum": 5
-        },
-        "notes": {
-          "type": "string",
-          "minLength": 1
-        },
-        "changes": {
-          "type": "string",
-          "minLength": 1
-        },
-        "gsheet": {
-          "type": "boolean"
-        }
-      },
-      "required": [ "name", "balance", "type" ],
       "allOf": [
         {
           "if": {
             "properties": {
               "type": {
-                "type": "string",
-                "enum": [ "subclass", "subrace" ]
+                "enum": [
+                  "subclass",
+                  "subrace"
+                ],
+                "type": "string"
               }
             },
-            "required": [ "type" ]
+            "required": [
+              "type"
+            ]
           },
           "then": {
-            "required": [ "subtype" ]
+            "required": [
+              "subtype"
+            ]
           }
         },
         {
           "if": {
             "properties": {
               "type": {
-                "type": "string",
-                "enum": [ "spell" ]
+                "enum": [
+                  "spell"
+                ],
+                "type": "string"
               }
             },
-            "required": [ "type" ]
+            "required": [
+              "type"
+            ]
           },
           "then": {
-            "required": [ "level" ],
             "properties": {
               "level": {
-                "type": "integer",
+                "maximum": 9,
                 "minimum": 0,
-                "maximum": 9
+                "type": "integer"
               }
-            }
+            },
+            "required": [
+              "level"
+            ]
           }
         },
         {
@@ -126,30 +59,151 @@
               {
                 "properties": {
                   "balance": {
-                    "minimum": -5,
-                    "maximum": -3
+                    "maximum": -3,
+                    "minimum": -5
                   }
                 },
-                "required": [ "balance" ]
+                "required": [
+                  "balance"
+                ]
               },
               {
                 "properties": {
                   "balance": {
-                    "minimum": 3,
-                    "maximum": 5
+                    "maximum": 5,
+                    "minimum": 3
                   }
                 },
-                "required": [ "balance" ]
+                "required": [
+                  "balance"
+                ]
               }
             ]
           },
           "then": {
-            "required": [ "notes" ]
+            "required": [
+              "notes"
+            ]
           }
         }
-      ]
+      ],
+      "properties": {
+        "balance": {
+          "maximum": 5,
+          "minimum": -5,
+          "type": "integer"
+        },
+        "changes": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "gsheet": {
+          "type": "boolean"
+        },
+        "name": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "notes": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "subtype": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "tags": {
+          "items": {
+            "enum": [
+              "magic",
+              "digital",
+              "souls",
+              "revival",
+              "nonmechanical",
+              "joke",
+              "external",
+              "divine",
+              "broken-link",
+              "replica",
+              "incomplete",
+              "pathfinder"
+            ],
+            "type": "string"
+          },
+          "minLength": 1,
+          "type": "array"
+        },
+        "type": {
+          "enum": [
+            "spell",
+            "feat",
+            "class",
+            "expansion",
+            "race",
+            "background",
+            "familiar",
+            "subclass",
+            "subrace"
+          ],
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "balance",
+        "type"
+      ],
+      "type": "object"
+    },
+    "rootItem": {
+      "$id": "#rootItem",
+      "oneOf": [
+        {
+          "$ref": "#homebrew",
+          "properties": {
+            "link": {
+              "format": "uri",
+              "type": "string"
+            }
+          },
+          "required": [
+            "link"
+          ],
+          "type": "object"
+        },
+        {
+          "properties": {
+            "items": {
+              "items": {
+                "$ref": "#homebrew"
+              },
+              "type": "array"
+            },
+            "link": {
+              "format": "uri",
+              "type": "string"
+            },
+            "name": {
+              "minLength": 1,
+              "type": "string"
+            },
+            "type": {
+              "enum": [
+                "compendium"
+              ],
+              "type": "string"
+            }
+          },
+          "required": [
+            "name",
+            "link",
+            "type",
+            "items"
+          ],
+          "type": "object"
+        }
+      ],
+      "type": "object"
     }
-  },
-
-  "$ref": "#rootItem"
+  }
 }
