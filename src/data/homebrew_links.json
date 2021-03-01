@@ -274,16 +274,34 @@
     "type": "feat"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)",
+    "tags": [
+      "magic",
+      "external"
+    ],
+    "name": "Avatar",
+    "type": "class",
+    "balance": 3,
+    "notes": "Balance explanation: Has a dandwiki balance warning."
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Axari_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Axari_(5e_Race)",
+    "type": "race",
+    "balance": 1,
+    "name": "Axari"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)"
+    "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)",
+    "type": "subclass",
+    "subtype": "fighter",
+    "balance": 4,
+    "notes": "Balance explanation: Most of the benefits of Barbarian's Rage without having to be a Barbarian"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)",
+    "type": "race",
+    "balance": 2,
+    "name": "Chaosborn"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)"
