@@ -27,7 +27,7 @@
           <b-card-body>
             <b-list-group>
               <b-list-group-item v-for="(item, index) in (hidePassing ? failingData.homebrew : this.homebrew)" :key="index" :variant="homebrewSchema(item) ? 'success' : 'danger'">
-                {{ item.name ? item.name : "No Name: " + JSON.stringify(item) }}
+                {{ item.name ? item.name : "No Name: " + item.link }}
                 <div v-if="!homebrewSchema(item)">
                   {{ homebrewSchema.errors }}
                 </div>

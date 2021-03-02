@@ -5,9 +5,11 @@ Vue.use(VueRouter)
 
 
 import HomePage from "@/components/pages/HomePage.vue"
-import Validator from "@/components/pages/Validator.vue"
 import NotFound from "@/components/pages/NotFound.vue"
 import WorkInProgress from "@/components/pages/WorkInProgress.vue"
+
+import Editor from "@/components/pages/Editor.vue"
+import Validator from "@/components/pages/Validator.vue"
 
 import References from "@/components/game/References.vue"
 import Homebrew from "@/components/game/Homebrew.vue"
@@ -35,6 +37,11 @@ const routes = [
     path: '/homebrew',
     name: 'homebrew',
     component: Homebrew
+  },
+  {
+    path: '/editor',
+    name: 'editor',
+    component: Editor
   },
 
   {
