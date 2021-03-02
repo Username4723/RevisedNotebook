@@ -520,33 +520,66 @@
   {
     "link": "https://www.dandwiki.com/wiki/Lich,_3rd_Variant_(5e_Class)",
     "name": "Lich (3rd Variant)",
-    "tags": [],
-    "type": "class"
+    "tags": [
+      "magic",
+      "souls",
+      "revival",
+      "complicated"
+    ],
+    "type": "class",
+    "balance": 4,
+    "notes": "Balance explanation: Skirts death"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Lich,_4th_Variant_(5e_Class)",
     "name": "Lich (4th Variant)",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic",
+      "souls",
+      "revival",
+      "complicated"
+    ],
+    "balance": 4,
+    "notes": "Balance explanation: Skirts death"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Lich,_Variant_(5e_Class)",
     "name": "Lich (Variant)",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic",
+      "complicated",
+      "souls"
+    ],
+    "balance": 4,
+    "notes": "Balance explanation: Skirts death"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Master_of_a_Thousand_Cuts_(5e_Feat)",
     "name": "Master of a Thousand Cuts",
-    "type": "feat"
+    "type": "feat",
+    "tags": [
+      "complicated"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: Deals cumulative damage until an action is wasted"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Master_of_the_Arcane_Sword_(5e_Class)",
     "name": "Master of the Arcane Sword",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: This is a mix of Eldritch Knight and Paladin."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)",
     "name": "Mesmirist",
-    "type": "class"
+    "type": "class",
+    "tags": []
   },
   {
     "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)",
