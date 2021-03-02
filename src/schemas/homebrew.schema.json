@@ -126,7 +126,8 @@
               "broken-link",
               "replica",
               "incomplete",
-              "pathfinder"
+              "pathfinder",
+              "complicated"
             ],
             "type": "string"
           },

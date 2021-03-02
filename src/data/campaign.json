@@ -17,7 +17,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "digital", "joke", "external", "broken-link", "incomplete", "pathfinder" ]
+              "enum": [ "digital", "joke", "external", "broken-link", "incomplete", "pathfinder", "complicated" ]
             }
           }
         }

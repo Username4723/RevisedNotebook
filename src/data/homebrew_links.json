@@ -26,9 +26,10 @@
     "changes": "Limit the amount of personalities to 3 at most for the ease of the DM.",
     "link": "https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)",
     "name": "Split Personality",
-    "notes": "Balance explanation: Provides several proficiencies.",
+    "changes": "Limit to 3 personalities at most.",
     "tags": [
-      "nonmechanical"
+      "nonmechanical",
+      "complicated"
     ],
     "type": "background"
   },
@@ -38,7 +39,8 @@
     "name": "Awakened Cat",
     "notes": "Please contact the DM if you chose to go this race to work on your backstory.",
     "tags": [
-      "souls"
+      "souls",
+      "complicated"
     ],
     "type": "race"
   },
@@ -195,7 +197,8 @@
     "name": "Mystic (UA)",
     "notes": "Subject to DM approval on a case-by-case basis.",
     "tags": [
-      "magic"
+      "magic",
+      "complicated"
     ],
     "type": "class"
   },
@@ -242,7 +245,7 @@
     "link": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/titan-mauler/",
     "name": "Path of the Titan Mauler",
     "notes": "I am not qualified to assess pathfinder balance.",
-    "subtype": "barbariam",
+    "subtype": "barbarian",
     "tags": [
       "pathfinder"
     ],
@@ -271,13 +274,17 @@
     "link": "https://www.dandwiki.com/wiki/Arrow_of_1,000_Stars_(5e_Feat)",
     "name": "Arrow of 1,000 Stars",
     "notes": "Balance explanation: Allows for compounding critical attack rolls",
-    "type": "feat"
+    "type": "feat",
+    "tags": [
+      "complicated"
+    ]
   },
   {
     "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)",
     "tags": [
       "magic",
-      "external"
+      "external",
+      "complicated"
     ],
     "name": "Avatar",
     "type": "class",
@@ -302,7 +309,10 @@
     "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)",
     "type": "race",
     "balance": 2,
-    "name": "Chaosborn"
+    "name": "Chaosborn",
+    "tags": [
+      "complicated"
+    ]
   },
   {
     "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)",
@@ -310,7 +320,8 @@
     "type": "class",
     "tags": [
       "magic",
-      "souls"
+      "souls",
+      "complicated"
     ],
     "balance": 3,
     "notes": "Balance explanation: One full level spell is a lot. In addition, knowing every single Death's Incarnate is a campaign secrecy issue"
@@ -321,7 +332,8 @@
     "type": "class",
     "tags": [
       "nonmechanical",
-      "magic"
+      "magic",
+      "complicated"
     ],
     "balance": 4,
     "notes": "Balance explanation: Summons CR-14 demons endlessly. Can create magic items. Spellcasting from multiple spell lists."
@@ -358,7 +370,8 @@
     "balance": 4,
     "tags": [
       "magic",
-      "external"
+      "external",
+      "complicated"
     ]
   },
   {
