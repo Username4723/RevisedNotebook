@@ -18,6 +18,8 @@
         <b-card>
           <b-card-header>
             <b-card-title>Homebrew</b-card-title>
+            <b-card-subtitle> {{ homebrew.length - failingHomebrew.length }} / {{ homebrew.length }} </b-card-subtitle>
+            <br/>
             <b-button v-b-modal.raw-data variant="info">View Raw</b-button>
             <b-modal id="raw-data" title="Raw Data">
               <b-form-textarea :value="homebrew"/>
