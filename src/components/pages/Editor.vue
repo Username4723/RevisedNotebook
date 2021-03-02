@@ -20,7 +20,7 @@
             <b-card-title>Homebrew</b-card-title>
             <b-button v-b-modal.raw-data variant="info">View Raw</b-button>
             <b-modal id="raw-data" title="Raw Data">
-              {{ this.homebrew }}
+              <b-form-textarea :value="homebrew"/>
             </b-modal>
           </b-card-header>
           <b-card-body>
