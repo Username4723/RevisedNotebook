@@ -444,100 +444,171 @@
     "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)"
+    "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)",
+    "type": "feat",
+    "name": "Hemorrhage",
+    "balance": 3,
+    "tags": ["complicated"],
+    "notes": "Not inline with 5e permanant injuries and similar."
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Hydronian_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Hydronian_(5e_Race)",
+    "name": "Hydronian",
+    "type": "race"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Illithid_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Illithid_(5e_Class)",
+    "type": "class",
+    "name": "Illithid"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Jedi/Sith,_3rd_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Jedi/Sith,_3rd_Variant_(5e_Class)",
+    "type": "class",
+    "name": "Sith (3rd Variant)"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Kaleido_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Kaleido_(5e_Class)",
+    "type": "class",
+    "name": "Kaleido"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Keybearer_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Keybearer_(5e_Class)",
+    "type": "class",
+    "name": "Keybearer"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Lati_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Lati_(5e_Race)",
+    "type": "race",
+    "name": "Lati"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Lich,_3rd_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Lich,_3rd_Variant_(5e_Class)",
+    "type": "class",
+    "name": "Lich (3rd Variant)"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Lich,_4th_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Lich,_4th_Variant_(5e_Class)",
+    "name": "Lich (4th Variant)",
+    "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Lich,_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Lich,_Variant_(5e_Class)",
+    "name": "Lich (Variant)",
+    "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Master_of_a_Thousand_Cuts_(5e_Feat)"
+    "link": "https://www.dandwiki.com/wiki/Master_of_a_Thousand_Cuts_(5e_Feat)",
+    "name": "Master of a Thousand Cuts",
+    "type": "feat"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Master_of_the_Arcane_Sword_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Master_of_the_Arcane_Sword_(5e_Class)",
+    "name": "Master of the Arcane Sword",
+    "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)",
+    "type": "class",
+    "name": "Mesmirist"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)",
+    "type": "class",
+    "name": "Mindflayer"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Necromancy_Bloodline_(5e_Subclass)"
+    "link": "https://www.dandwiki.com/wiki/Necromancy_Bloodline_(5e_Subclass)",
+    "type": "subclass",
+    "name": "Necromancy Bloodline",
+    "subtype": "sorcerer"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Nightwings_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Nightwings_(5e_Race)",
+    "type": "race",
+    "name": "Nightwings"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Nocturne_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Nocturne_(5e_Race)",
+    "type": "race",
+    "name": "Nocturne"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Phantom_Thief_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Phantom_Thief_(5e_Class)",
+    "type": "class",
+    "name": "Phantom Thief"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Planeswalker,_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Planeswalker,_Variant_(5e_Class)",
+    "type": "class",
+    "name": "Planeswalker"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Rainwing_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Rainwing_(5e_Race)",
+    "type": "race",
+    "name": "Rainwing"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)"
+    "link": "https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)",
+    "type": "feat",
+    "name": "Raven Wings"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Revenant_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Revenant_(5e_Race)",
+    "type": "race",
+    "name": "Revenant"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Satyr_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Satyr_(5e_Race)",
+    "type": "race",
+    "name": "Satyr"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)"
+    "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)",
+    "type": "subclass",
+    "name": "School of Divinity"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)",
+    "type": "race",
+    "name": "Skeleton"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)"
+    "link": "https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)",
+    "type": "feat",
+    "name": "Spirit Firearms"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)",
+    "type": "class",
+    "name": "State Alchemist"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Vampire_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Vampire_(5e_Race)",
+    "type": "race",
+    "name": "Vampire"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Yakuza,_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Yakuza,_Variant_(5e_Class)",
+    "type": "class",
+    "name": "Yakuza (Variant)"
   },
   {
-    "link": "https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender"
+    "link": "https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender",
+    "type": "subclass",
+    "subtype": "monk",
+    "name": "Way of the Waterbender"
   },
   {
-    "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5"
+    "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5",
+    "type": "subclass",
+    "subtype": "warlock",
+    "name": "Otherworldly Patron: My Dad"
   },
   {
-    "link": "https://www.gmbinder.com/share/-MJVQX3LfSlcRONaig9O/-MMChc3Tu0YvYhPFu02v"
+    "link": "https://www.gmbinder.com/share/-MJVQX3LfSlcRONaig9O/-MMChc3Tu0YvYhPFu02v",
+    "type": "subclass",
+    "subtype": "warlock",
+    "name": "Otherworldly Patron: The Yellow King"
   },
   {
     "link": "https://www.myth-weavers.com/showthread.php?t=358636"
@@ -546,37 +617,34 @@
     "link": "https://www.reddit.com/r/DnD/comments/h7j4zi/oc_the_mistborn_v13_now_with_6_new_misting_races/"
   },
   {
-    "link": "https://www.reddit.com/r/DnD/comments/h7u5w1/homebrew_puppeteer_class_rough_draft_trying_to/"
+    "link": "https://www.reddit.com/r/DnD/comments/h7u5w1/homebrew_puppeteer_class_rough_draft_trying_to/",
+    "type": "class",
+    "name": "Puppeteer"
   },
   {
     "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/bc8j78/old_school_cantrips/"
   },
   {
-    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/gq49u0/fun_way_to_keep_your_hungry_players_fed_in/"
-  },
-  {
-    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/k9v6s2/the_complete_hippo_2020_update/"
-  },
-  {
-    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/l015wb/best_of_2020_winners/"
-  },
-  {
-    "link": "https://www.reddit.com/r/SpectreCreations/comments/lj3uks/primordial_rune_formless_februneuary_day_13/"
-  },
-  {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/6om1nu/arcane_artillery_the_gun_nuts_guide_final_edition/"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/",
+    "name": "Path of the Savage",
+    "type": "subclass",
+    "subtype": "barbarian"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/",
+    "type": "class",
+    "name": "Bloodborne"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/939c4v/genuine_the_compendium_of_forgotten_secrets/"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9ccl7k/the_commoner_an_eminently_killable_possibly/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9ccl7k/the_commoner_an_eminently_killable_possibly/",
+    "type": "class",
+    "name": "Commoner"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/9szfsg/the_stressed_student_wizard_subclass_for_all_of/"
