@@ -294,6 +294,7 @@
     "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)",
     "type": "subclass",
     "subtype": "fighter",
+    "name": "Berserk",
     "balance": 4,
     "notes": "Balance explanation: Most of the benefits of Barbarian's Rage without having to be a Barbarian"
   },
@@ -304,22 +305,61 @@
     "name": "Chaosborn"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)",
+    "name": "Death's Incarnate",
+    "type": "class",
+    "tags": [
+      "magic",
+      "souls"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: One full level spell is a lot. In addition, knowing every single Death's Incarnate is a campaign secrecy issue"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Demon_King_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Demon_King_(5e_Class)",
+    "name": "Demon King",
+    "type": "class",
+    "tags": [
+      "nonmechanical",
+      "magic"
+    ],
+    "balance": 4,
+    "notes": "Balance explanation: Summons CR-14 demons endlessly. Can create magic items. Spellcasting from multiple spell lists."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Dragon_(5e_Race)"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Dragon_Mage_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Dragon_Mage_(5e_Class)",
+    "type": "class",
+    "name": "Dragon Mage",
+    "tags": [
+      "magic"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: In essence, this gives a lot of free spells and abilities, along with mediocre power scaling."
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)",
+    "name": "Dragon Rider (2nd Variant)",
+    "type": "class",
+    "balance": 4,
+    "notes": "Balance explanation: Mounts with high AC, lots of damage with attacks, magic, and fighting style.",
+    "tags": [
+      "magic",
+      "external"
+    ]
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Dragon_Rider_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Dragon_Rider_(5e_Class)",
+    "name": "Dragon Rider",
+    "type": "class",
+    "notes": "Balance explanation: Mounts with high AC and similar. Lots of healing. Magic. Everything under the sun.",
+    "balance": 4,
+    "tags": [
+      "magic",
+      "external"
+    ]
   },
   {
     "link": "https://www.dandwiki.com/wiki/Eldar_(5e_Race)"
