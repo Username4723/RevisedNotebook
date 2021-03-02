@@ -444,47 +444,84 @@
     "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)",
-    "type": "feat",
-    "name": "Hemorrhage",
     "balance": 3,
-    "tags": ["complicated"],
-    "notes": "Not inline with 5e permanant injuries and similar."
+    "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)",
+    "name": "Hemorrhage",
+    "notes": "Not inline with 5e permanant injuries and similar.",
+    "tags": [
+      "complicated"
+    ],
+    "type": "feat"
   },
   {
+    "balance": 2,
     "link": "https://www.dandwiki.com/wiki/Hydronian_(5e_Race)",
     "name": "Hydronian",
+    "notes": "Balance explanation: Completely ignores critical hits",
+    "tags": [],
     "type": "race"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Illithid_(5e_Class)",
-    "type": "class",
-    "name": "Illithid"
+    "name": "Illithid",
+    "notes": "Balance explanation: Extremely powerful with no clear limitations",
+    "tags": [
+      "magic"
+    ],
+    "type": "class"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Jedi/Sith,_3rd_Variant_(5e_Class)",
-    "type": "class",
-    "name": "Sith (3rd Variant)"
+    "name": "Sith (3rd Variant)",
+    "notes": "Balance explanation: Poorly written to the point where the possibilities for what to do are extremely vast",
+    "tags": [
+      "magic",
+      "digital",
+      "external",
+      "complicated"
+    ],
+    "type": "class"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Kaleido_(5e_Class)",
-    "type": "class",
-    "name": "Kaleido"
+    "name": "Kaleido",
+    "notes": "Balance explanation: Allows switching classes and an absurd amount of versatility on top of spellcasting.",
+    "tags": [
+      "magic",
+      "divine",
+      "complicated"
+    ],
+    "type": "class"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Keybearer_(5e_Class)",
-    "type": "class",
-    "name": "Keybearer"
+    "name": "Keybearer",
+    "notes": "Balance explanation: This is an Eldritch Knight but more powerful.",
+    "tags": [
+      "external",
+      "magic"
+    ],
+    "type": "class"
   },
   {
+    "balance": 2,
     "link": "https://www.dandwiki.com/wiki/Lati_(5e_Race)",
-    "type": "race",
-    "name": "Lati"
+    "name": "Lati",
+    "tags": [
+      "external",
+      "magic"
+    ],
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Lich,_3rd_Variant_(5e_Class)",
-    "type": "class",
-    "name": "Lich (3rd Variant)"
+    "name": "Lich (3rd Variant)",
+    "tags": [],
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Lich,_4th_Variant_(5e_Class)",
@@ -508,107 +545,107 @@
   },
   {
     "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)",
-    "type": "class",
-    "name": "Mesmirist"
+    "name": "Mesmirist",
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)",
-    "type": "class",
-    "name": "Mindflayer"
+    "name": "Mindflayer",
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Necromancy_Bloodline_(5e_Subclass)",
-    "type": "subclass",
     "name": "Necromancy Bloodline",
-    "subtype": "sorcerer"
+    "subtype": "sorcerer",
+    "type": "subclass"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Nightwings_(5e_Race)",
-    "type": "race",
-    "name": "Nightwings"
+    "name": "Nightwings",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Nocturne_(5e_Race)",
-    "type": "race",
-    "name": "Nocturne"
+    "name": "Nocturne",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Phantom_Thief_(5e_Class)",
-    "type": "class",
-    "name": "Phantom Thief"
+    "name": "Phantom Thief",
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Planeswalker,_Variant_(5e_Class)",
-    "type": "class",
-    "name": "Planeswalker"
+    "name": "Planeswalker",
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Rainwing_(5e_Race)",
-    "type": "race",
-    "name": "Rainwing"
+    "name": "Rainwing",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)",
-    "type": "feat",
-    "name": "Raven Wings"
+    "name": "Raven Wings",
+    "type": "feat"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Revenant_(5e_Race)",
-    "type": "race",
-    "name": "Revenant"
+    "name": "Revenant",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Satyr_(5e_Race)",
-    "type": "race",
-    "name": "Satyr"
+    "name": "Satyr",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)",
-    "type": "subclass",
-    "name": "School of Divinity"
+    "name": "School of Divinity",
+    "type": "subclass"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)",
-    "type": "race",
-    "name": "Skeleton"
+    "name": "Skeleton",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)",
-    "type": "feat",
-    "name": "Spirit Firearms"
+    "name": "Spirit Firearms",
+    "type": "feat"
   },
   {
     "link": "https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)",
-    "type": "class",
-    "name": "State Alchemist"
+    "name": "State Alchemist",
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Vampire_(5e_Race)",
-    "type": "race",
-    "name": "Vampire"
+    "name": "Vampire",
+    "type": "race"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Yakuza,_Variant_(5e_Class)",
-    "type": "class",
-    "name": "Yakuza (Variant)"
+    "name": "Yakuza (Variant)",
+    "type": "class"
   },
   {
     "link": "https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender",
-    "type": "subclass",
+    "name": "Way of the Waterbender",
     "subtype": "monk",
-    "name": "Way of the Waterbender"
+    "type": "subclass"
   },
   {
     "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5",
-    "type": "subclass",
+    "name": "Otherworldly Patron: My Dad",
     "subtype": "warlock",
-    "name": "Otherworldly Patron: My Dad"
+    "type": "subclass"
   },
   {
     "link": "https://www.gmbinder.com/share/-MJVQX3LfSlcRONaig9O/-MMChc3Tu0YvYhPFu02v",
-    "type": "subclass",
+    "name": "Otherworldly Patron: The Yellow King",
     "subtype": "warlock",
-    "name": "Otherworldly Patron: The Yellow King"
+    "type": "subclass"
   },
   {
     "link": "https://www.myth-weavers.com/showthread.php?t=358636"
@@ -618,8 +655,8 @@
   },
   {
     "link": "https://www.reddit.com/r/DnD/comments/h7u5w1/homebrew_puppeteer_class_rough_draft_trying_to/",
-    "type": "class",
-    "name": "Puppeteer"
+    "name": "Puppeteer",
+    "type": "class"
   },
   {
     "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/bc8j78/old_school_cantrips/"
@@ -630,21 +667,21 @@
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/",
     "name": "Path of the Savage",
-    "type": "subclass",
-    "subtype": "barbarian"
+    "subtype": "barbarian",
+    "type": "subclass"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/",
-    "type": "class",
-    "name": "Bloodborne"
+    "name": "Bloodborne",
+    "type": "class"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/939c4v/genuine_the_compendium_of_forgotten_secrets/"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/9ccl7k/the_commoner_an_eminently_killable_possibly/",
-    "type": "class",
-    "name": "Commoner"
+    "name": "Commoner",
+    "type": "class"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/9szfsg/the_stressed_student_wizard_subclass_for_all_of/"
