@@ -127,7 +127,8 @@
               "replica",
               "incomplete",
               "pathfinder",
-              "complicated"
+              "complicated",
+              "steampunk"
             ],
             "type": "string"
           },

@@ -375,25 +375,74 @@
     ]
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Eldar_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Eldar_(5e_Race)",
+    "name": "Eldar",
+    "type": "race",
+    "tags": [
+      "external",
+      "magic"
+    ],
+    "balance": 2
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Embodied_Mouther_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Embodied_Mouther_(5e_Race)",
+    "name": "Embodied Mouther",
+    "type": "race",
+    "tags": [
+      "complicated"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: DCs for frightening, searching for thigns with free expertise, devouring for bonuses"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Forgotten_(5e_Background)"
+    "link": "https://www.dandwiki.com/wiki/Forgotten_(5e_Background)",
+    "name": "Forgotten",
+    "type": "background",
+    "balance": 0
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Full_Counter_(5e_Feat)"
+    "link": "https://www.dandwiki.com/wiki/Full_Counter_(5e_Feat)",
+    "tags": [
+      "external"
+    ],
+    "balance": 3,
+    "name": "Full Counter",
+    "type": "feat",
+    "notes": "Balance explanation: Completely broken at low levels and scales awfully."
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Geomancy_(5e_Subclass)"
+    "link": "https://www.dandwiki.com/wiki/Geomancy_(5e_Subclass)",
+    "name": "School of Geomancy",
+    "type": "subclass",
+    "subtype": "wizard",
+    "balance": -1,
+    "tags": [
+      "magic"
+    ]
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Godbinder_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Godbinder_(5e_Class)",
+    "name": "Godbinder",
+    "type": "class",
+    "balance": 4,
+    "tags": [
+      "magic",
+      "divine",
+      "complicated"
+    ],
+    "notes": "Balance explanation: Mashup of Cleric and Warlock with the most powerful parts from each"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)"
+    "link": "https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)",
+    "type": "class",
+    "name": "Gun Mage",
+    "balance": 3,
+    "tags": [
+      "magic",
+      "steampunk",
+      "complicated"
+    ],
+    "notes": "Balance explanation: Full caster with a gun and range and similar."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)"
