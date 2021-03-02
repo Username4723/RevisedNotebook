@@ -1,4 +1,29 @@
 {
+  "frostburn": {
+    "title": "Frostburn",
+    "text": [
+      "The Frostburn campaign."
+    ],
+    "homebrewFilter": {
+      "type": "object",
+      "properties": {
+        "balance": {
+          "type": "number",
+          "minimum": -2,
+          "maximum": 2
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "not": {
+              "type": "string",
+              "enum": [ "digital", "joke", "external", "broken-link", "incomplete", "pathfinder" ]
+            }
+          }
+        }
+      }
+    }
+  },
   "crashlanding": {
     "title": "Crash Landing (Needs Players!)",
     "text": "external",
@@ -16,7 +41,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "digital", "external" ]
+              "enum": [ "digital", "external", "broken-link", "incomplete", "pathfinder" ]
             }
           }
         }
@@ -54,7 +79,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "digital" ]
+              "enum": [ "digital", "broken-link", "incomplete", "pathfinder" ]
             }
           }
         }
@@ -106,7 +131,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "revival", "souls" ]
+              "enum": [ "revival", "souls", "broken-link", "incomplete", "pathfinder" ]
             }
           }
         }
@@ -140,7 +165,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "digital", "joke", "external" ]
+              "enum": [ "digital", "joke", "external", "broken-link", "incomplete", "pathfinder" ]
             }
           }
         }
@@ -226,7 +251,7 @@
           "items": {
             "not": {
               "type": "string",
-              "enum": [ "digital", "joke", "external" ]
+              "enum": [ "digital", "joke", "external", "broken-link", "incomplete", "pathfinder" ]
             }
           }
         }
