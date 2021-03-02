@@ -23,10 +23,9 @@
   },
   {
     "balance": 1,
-    "changes": "Limit the amount of personalities to 3 at most for the ease of the DM.",
+    "changes": "Limit to 3 personalities at most.",
     "link": "https://www.dandwiki.com/wiki/Split_Personality_(5e_Background)",
     "name": "Split Personality",
-    "changes": "Limit to 3 personalities at most.",
     "tags": [
       "nonmechanical",
       "complicated"
@@ -274,175 +273,175 @@
     "link": "https://www.dandwiki.com/wiki/Arrow_of_1,000_Stars_(5e_Feat)",
     "name": "Arrow of 1,000 Stars",
     "notes": "Balance explanation: Allows for compounding critical attack rolls",
-    "type": "feat",
     "tags": [
       "complicated"
-    ]
+    ],
+    "type": "feat"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Avatar_(5e_Class)",
+    "name": "Avatar",
+    "notes": "Balance explanation: Has a dandwiki balance warning.",
     "tags": [
       "magic",
       "external",
       "complicated"
     ],
-    "name": "Avatar",
-    "type": "class",
-    "balance": 3,
-    "notes": "Balance explanation: Has a dandwiki balance warning."
+    "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Axari_(5e_Race)",
-    "type": "race",
     "balance": 1,
-    "name": "Axari"
+    "link": "https://www.dandwiki.com/wiki/Axari_(5e_Race)",
+    "name": "Axari",
+    "type": "race"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)",
-    "type": "subclass",
-    "subtype": "fighter",
-    "name": "Berserk",
     "balance": 4,
-    "notes": "Balance explanation: Most of the benefits of Barbarian's Rage without having to be a Barbarian"
+    "link": "https://www.dandwiki.com/wiki/Berserk_(5e_Subclass)",
+    "name": "Berserk",
+    "notes": "Balance explanation: Most of the benefits of Barbarian's Rage without having to be a Barbarian",
+    "subtype": "fighter",
+    "type": "subclass"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)",
-    "type": "race",
     "balance": 2,
+    "link": "https://www.dandwiki.com/wiki/Chaosborn_(5e_Race)",
     "name": "Chaosborn",
     "tags": [
       "complicated"
-    ]
+    ],
+    "type": "race"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Death%27s_Incarnate_(5e_Class)",
     "name": "Death's Incarnate",
-    "type": "class",
+    "notes": "Balance explanation: One full level spell is a lot. In addition, knowing every single Death's Incarnate is a campaign secrecy issue",
     "tags": [
       "magic",
       "souls",
       "complicated"
     ],
-    "balance": 3,
-    "notes": "Balance explanation: One full level spell is a lot. In addition, knowing every single Death's Incarnate is a campaign secrecy issue"
+    "type": "class"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Demon_King_(5e_Class)",
     "name": "Demon King",
-    "type": "class",
+    "notes": "Balance explanation: Summons CR-14 demons endlessly. Can create magic items. Spellcasting from multiple spell lists.",
     "tags": [
       "nonmechanical",
       "magic",
       "complicated"
     ],
-    "balance": 4,
-    "notes": "Balance explanation: Summons CR-14 demons endlessly. Can create magic items. Spellcasting from multiple spell lists."
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Dragon_(5e_Race)"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Dragon_Mage_(5e_Class)",
-    "type": "class",
     "name": "Dragon Mage",
+    "notes": "Balance explanation: In essence, this gives a lot of free spells and abilities, along with mediocre power scaling.",
     "tags": [
       "magic"
     ],
-    "balance": 3,
-    "notes": "Balance explanation: In essence, this gives a lot of free spells and abilities, along with mediocre power scaling."
+    "type": "class"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Dragon_Rider,_2nd_Variant_(5e_Class)",
     "name": "Dragon Rider (2nd Variant)",
-    "type": "class",
-    "balance": 4,
     "notes": "Balance explanation: Mounts with high AC, lots of damage with attacks, magic, and fighting style.",
     "tags": [
       "magic",
       "external"
-    ]
+    ],
+    "type": "class"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Dragon_Rider_(5e_Class)",
     "name": "Dragon Rider",
-    "type": "class",
     "notes": "Balance explanation: Mounts with high AC and similar. Lots of healing. Magic. Everything under the sun.",
-    "balance": 4,
     "tags": [
       "magic",
       "external",
       "complicated"
-    ]
+    ],
+    "type": "class"
   },
   {
+    "balance": 2,
     "link": "https://www.dandwiki.com/wiki/Eldar_(5e_Race)",
     "name": "Eldar",
-    "type": "race",
     "tags": [
       "external",
       "magic"
     ],
-    "balance": 2
+    "type": "race"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Embodied_Mouther_(5e_Race)",
     "name": "Embodied Mouther",
-    "type": "race",
+    "notes": "Balance explanation: DCs for frightening, searching for thigns with free expertise, devouring for bonuses",
     "tags": [
       "complicated"
     ],
-    "balance": 3,
-    "notes": "Balance explanation: DCs for frightening, searching for thigns with free expertise, devouring for bonuses"
+    "type": "race"
   },
   {
+    "balance": 0,
     "link": "https://www.dandwiki.com/wiki/Forgotten_(5e_Background)",
     "name": "Forgotten",
-    "type": "background",
-    "balance": 0
+    "type": "background"
   },
   {
+    "balance": 3,
     "link": "https://www.dandwiki.com/wiki/Full_Counter_(5e_Feat)",
+    "name": "Full Counter",
+    "notes": "Balance explanation: Completely broken at low levels and scales awfully.",
     "tags": [
       "external"
     ],
-    "balance": 3,
-    "name": "Full Counter",
-    "type": "feat",
-    "notes": "Balance explanation: Completely broken at low levels and scales awfully."
+    "type": "feat"
   },
   {
+    "balance": -1,
     "link": "https://www.dandwiki.com/wiki/Geomancy_(5e_Subclass)",
     "name": "School of Geomancy",
-    "type": "subclass",
     "subtype": "wizard",
-    "balance": -1,
     "tags": [
       "magic"
-    ]
+    ],
+    "type": "subclass"
   },
   {
+    "balance": 4,
     "link": "https://www.dandwiki.com/wiki/Godbinder_(5e_Class)",
     "name": "Godbinder",
-    "type": "class",
-    "balance": 4,
+    "notes": "Balance explanation: Mashup of Cleric and Warlock with the most powerful parts from each",
     "tags": [
       "magic",
       "divine",
       "complicated"
     ],
-    "notes": "Balance explanation: Mashup of Cleric and Warlock with the most powerful parts from each"
+    "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)",
-    "type": "class",
-    "name": "Gun Mage",
     "balance": 3,
+    "link": "https://www.dandwiki.com/wiki/Gun_Mage_(5e_Class)",
+    "name": "Gun Mage",
+    "notes": "Balance explanation: Full caster with a gun and range and similar.",
     "tags": [
       "magic",
       "steampunk",
       "complicated"
     ],
-    "notes": "Balance explanation: Full caster with a gun and range and similar."
+    "type": "class"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Hemorrhage_(5e_Feat)"
