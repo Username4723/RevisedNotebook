@@ -36,7 +36,7 @@
                   <b-list-group>
                     <b-list-group-item class="text-left" v-for="(item, index) in this.failingHomebrew" :key="index" :variant="homebrewSchema(item) ? 'success' : 'danger'">
                       <b-button variant="outline-primary" @click="selected = item.editIndex">Edit</b-button>
-                      {{ item.name ? item.name : "No Name: " + item.link }}
+                      {{ item.name ? item.name : "No Name." }}
                     </b-list-group-item>
                   </b-list-group>
                 </b-col>
