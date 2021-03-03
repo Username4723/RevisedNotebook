@@ -60,6 +60,10 @@
                       <b-form-select id="type" lazy v-model="homebrew[selected].type" :options="[{ text: 'Choose...', value: undefined }, 'class', 'race', 'subclass', 'subrace', 'feat', 'background' ]" required/>
                     </b-form-group>
 
+                    <b-form-group label="Subtype" label-cols="2" label-for="subtype" v-if="homebrew[selected].type == 'subrace' || homebrew[selected].type == 'subclass'">
+                      <b-form-select id="subtype" lazy v-model="homebrew[selected].subtype" type="text" required/>
+                    </b-form-group>
+
                     <b-form-group label="Tags" label-cols="2" label-for="tags">
                       <b-form-checkbox-group id="tags" v-model="homebrew[selected].tags" lazy class="text-left">
                         <b-form-checkbox value="magic">Magic</b-form-checkbox>
