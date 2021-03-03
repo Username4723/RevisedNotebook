@@ -579,63 +579,118 @@
     "link": "https://www.dandwiki.com/wiki/Mesmerist_(5e_Class)",
     "name": "Mesmirist",
     "type": "class",
-    "tags": []
+    "tags": [
+      "magic",
+      "complicated"
+    ],
+    "balance": 3,
+    "notes": "Balance explanation: This seems like a bard but buffed"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Mindflayer_(5e_Class)",
     "name": "Mindflayer",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic"
+    ],
+    "balance": 3,
+    "notes": "Balance Explanation: See Mystic"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Necromancy_Bloodline_(5e_Subclass)",
     "name": "Necromancy Bloodline",
     "subtype": "sorcerer",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "souls",
+      "complicated"
+    ],
+    "balance": 4,
+    "notes": "Balance Explanation: Skirts death. Other subclass features are also somewhat powerful."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Nightwings_(5e_Race)",
     "name": "Nightwings",
-    "type": "race"
+    "type": "race",
+    "tags": [
+      "external"
+    ],
+    "balance": 2
   },
   {
     "link": "https://www.dandwiki.com/wiki/Nocturne_(5e_Race)",
     "name": "Nocturne",
-    "type": "race"
+    "type": "race",
+    "tags": [],
+    "balance": 1,
+    "notes": "Similar to Drow"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Phantom_Thief_(5e_Class)",
     "name": "Phantom Thief",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "external",
+      "complicated",
+      "magic"
+    ],
+    "balance": 4,
+    "notes": "Balance explanation: Quite literally borrows skills an knows attributes that may not exist."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Planeswalker,_Variant_(5e_Class)",
     "name": "Planeswalker",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic",
+      "complicated"
+    ],
+    "balance": 5,
+    "notes": "Balance notes: No."
   },
   {
     "link": "https://www.dandwiki.com/wiki/Rainwing_(5e_Race)",
     "name": "Rainwing",
-    "type": "race"
+    "type": "race",
+    "tags": [
+      "external"
+    ],
+    "balance": 1
   },
   {
     "link": "https://www.dandwiki.com/wiki/Raven_Wings_(5e_Feat)",
     "name": "Raven Wings",
-    "type": "feat"
+    "type": "feat",
+    "tags": [],
+    "balance": 2
   },
   {
     "link": "https://www.dandwiki.com/wiki/Revenant_(5e_Race)",
     "name": "Revenant",
-    "type": "race"
+    "type": "race",
+    "balance": 1,
+    "tags": [
+      "complicated",
+      "magic"
+    ]
   },
   {
     "link": "https://www.dandwiki.com/wiki/Satyr_(5e_Race)",
     "name": "Satyr",
-    "type": "race"
+    "type": "race",
+    "tags": [
+      "replica"
+    ],
+    "balance": 1
   },
   {
     "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)",
     "name": "School of Divinity",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": [],
+    "balance": 3,
+    "notes": "Balance explanation: Use the archived UA version"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)",
