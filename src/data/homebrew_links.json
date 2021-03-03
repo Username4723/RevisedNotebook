@@ -338,7 +338,14 @@
     "type": "class"
   },
   {
-    "link": "https://www.dandwiki.com/wiki/Dragon_(5e_Race)"
+    "link": "https://www.dandwiki.com/wiki/Dragon_(5e_Race)",
+    "name": "Dragon",
+    "type": "class",
+    "tags": [
+      "incomplete"
+    ],
+    "notes": "Grammatical erors. Balance notes: Combines things from multiple classes and gives several powerful traits",
+    "balance": 3
   },
   {
     "balance": 3,
@@ -688,40 +695,77 @@
     "link": "https://www.dandwiki.com/wiki/School_of_Divinity_(5e_Subclass)",
     "name": "School of Divinity",
     "type": "subclass",
-    "tags": [],
+    "tags": [
+      "magic",
+      "divine"
+    ],
     "balance": 3,
-    "notes": "Balance explanation: Use the archived UA version"
+    "notes": "Balance explanation: Use the archived UA version",
+    "subtype": "cleric"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Skeleton_(5e_Race)",
     "name": "Skeleton",
-    "type": "race"
+    "type": "race",
+    "tags": [
+      "magic",
+      "divine"
+    ],
+    "balance": 2
   },
   {
     "link": "https://www.dandwiki.com/wiki/Spirit_Firearms_(5e_Feat)",
     "name": "Spirit Firearms",
-    "type": "feat"
+    "type": "feat",
+    "tags": [
+      "magic",
+      "complicated",
+      "steampunk"
+    ],
+    "balance": 2
   },
   {
     "link": "https://www.dandwiki.com/wiki/State_Alchemist_(5e_Class)",
     "name": "State Alchemist",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "external",
+      "souls",
+      "magic",
+      "revival",
+      "incomplete"
+    ],
+    "notes": "Missing timeframes for several abilities. Balance explanation: Toys with death. Allows revival. Constructs. Just play a Wizard or Monk.",
+    "balance": 4
   },
   {
     "link": "https://www.dandwiki.com/wiki/Vampire_(5e_Race)",
     "name": "Vampire",
-    "type": "race"
+    "type": "race",
+    "tags": [
+      "magic",
+      "complicated",
+      "replica"
+    ],
+    "balance": 4,
+    "notes": "Balance explanation: Skirts death"
   },
   {
     "link": "https://www.dandwiki.com/wiki/Yakuza,_Variant_(5e_Class)",
     "name": "Yakuza (Variant)",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "complicated"
+    ],
+    "balance": 4,
+    "notes": "Even D&D Wiki gives this a balance warning."
   },
   {
     "link": "https://www.dndbeyond.com/subclasses/276143-way-of-the-waterbender",
     "name": "Way of the Waterbender",
     "subtype": "monk",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": []
   },
   {
     "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5",
@@ -751,7 +795,8 @@
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/",
     "name": "Path of the Savage",
     "subtype": "barbarian",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": []
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/",
