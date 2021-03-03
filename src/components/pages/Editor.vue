@@ -43,13 +43,14 @@
 
                 <!-- editor -->
                 <b-col>
+                  <!-- images -->
                   <b-embed v-if="homebrew[selected].link.includes('dandwiki')" type="iframe" :src="homebrew[selected].link"></b-embed>
-                  <br>
+                  <b-button v-else :href="homebrew[selected].link" target="_blank" rel="noreferrer noopener" variant="info" class="mb-2">Open</b-button>
 
+                  <!-- Forms -->
                   <b-form>
                     <b-form-group label="Link" label-cols="2" label-for="link">
                       <b-form-input id="link" lazy v-model="homebrew[selected].link" type="url" placeholder="Link to Homebrew" required/>
-                      <b-button :href="homebrew[selected].link" target="_blank" rel="noreferrer noopener" variant="info">Open</b-button>
                     </b-form-group>
 
                     <b-form-group label="Name" label-cols="2" label-for="name">
