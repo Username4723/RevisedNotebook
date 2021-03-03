@@ -62,7 +62,7 @@
                     </b-form-group>
 
                     <b-form-group label="Subtype" label-cols="2" label-for="subtype" v-if="homebrew[selected].type == 'subrace' || homebrew[selected].type == 'subclass'">
-                      <b-form-select id="subtype" lazy v-model="homebrew[selected].subtype" type="text" required/>
+                      <b-form-input id="subtype" lazy v-model="homebrew[selected].subtype" type="text" required/>
                     </b-form-group>
 
                     <b-form-group label="Tags" label-cols="2" label-for="tags">
