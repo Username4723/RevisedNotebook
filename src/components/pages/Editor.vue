@@ -58,7 +58,7 @@
                     </b-form-group>
 
                     <b-form-group label="Type" label-cols="2" label-for="type">
-                      <b-form-select id="type" lazy v-model="homebrew[selected].type" :options="[{ text: 'Choose...', value: undefined }, 'class', 'race', 'subclass', 'subrace', 'feat', 'background' ]" required/>
+                      <b-form-select id="type" lazy v-model="homebrew[selected].type" :options="[{ text: 'Choose...', value: undefined }, 'class', 'race', 'subclass', 'subrace', 'feat', 'background', 'compendium' ]" required/>
                     </b-form-group>
 
                     <b-form-group label="Subtype" label-cols="2" label-for="subtype" v-if="homebrew[selected].type == 'subrace' || homebrew[selected].type == 'subclass'">
@@ -125,7 +125,7 @@ export default {
   },
   computed: {
     failingHomebrew: function() {
-      return this.homebrew.map((it, index) => { it = Object.assign({}, it); it.editIndex = index; return it; }).filter(it => !this.homebrewSchema(it))
+      return this.homebrew.map((it, index) => { it = Object.assign({}, it); it.editIndex = index; return it; }).filter(it => !this.homebrewSchema(it) && it.type != "compendium")
     },
     homebrewSchema: function() {
       return ajv.compile(require('@/schemas/homebrew.schema.json'))
