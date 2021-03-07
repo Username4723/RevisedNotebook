@@ -946,58 +946,161 @@
     "balance": 0
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bopt3f/throw_hands_a_conjuration_cantrip_your_enemies/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bopt3f/throw_hands_a_conjuration_cantrip_your_enemies/",
+    "type": "spell",
+    "tags": [
+      "magic"
+    ],
+    "name": "Throw Hands",
+    "level": 0,
+    "balance": -1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bpffcg/panzer_guard_the_heavy_arms_artificer_specialty/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/brvhpe/plot_armour_for_when_mage_armour_just_doesnt_cut/",
+    "type": "spell",
+    "tags": [
+      "joke",
+      "magic"
+    ],
+    "name": "Plot Armour",
+    "level": 9,
+    "balance": -1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/brvhpe/plot_armour_for_when_mage_armour_just_doesnt_cut/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bx31p9/ghost_writer_a_simple_roleplay_spell_for_those/",
+    "type": "spell",
+    "tags": [
+      "magic"
+    ],
+    "name": "Ghost Writer",
+    "level": 1,
+    "balance": -1,
+    "changes": "This may also copy-paste text from another source."
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bx31p9/ghost_writer_a_simple_roleplay_spell_for_those/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cj1l9m/arcane_traditionwizard_subclass_hedge_magic_2nd/",
+    "type": "subclass",
+    "tags": [
+      "magic"
+    ],
+    "name": "Arcane Tradition: Hedge Magic",
+    "subtype": "wizard",
+    "balance": 0
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cbzzy3/arcane_traditionwizard_subclass_hedge_magic_1st/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cex2yi/fated_soul_sorcerer_subclass_a_tree_falls_towards/",
+    "type": "subclass",
+    "tags": [
+      "magic"
+    ],
+    "name": "Sorcerous Origin: Fated Soul",
+    "subtype": "sorcerer",
+    "balance": 2,
+    "changes": "When Destiny applies to an AOE spell, it only applies to one creature in the radius."
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cex2yi/fated_soul_sorcerer_subclass_a_tree_falls_towards/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ci34lc/paladin_oath_of_the_goodest_boi_release_the_bark/",
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "joke"
+    ],
+    "name": "Oath of the Goodest Boi",
+    "subtype": "paladin",
+    "changes": "\"two Channel Divinity options\" - you get just one. Unwavering Loyalty is one per long rest.",
+    "balance": -1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ci34lc/paladin_oath_of_the_goodest_boi_release_the_bark/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cp0bjr/bard_college_of_revolution_a_single_spark_is/",
+    "type": "subclass",
+    "tags": [
+      "magic"
+    ],
+    "balance": -2,
+    "name": "College of Revolution",
+    "subtype": "bard"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cj1l9m/arcane_traditionwizard_subclass_hedge_magic_2nd/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ct22g1/otherworldly_patron_revised_great_old_one_now/",
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "divine",
+      "complicated",
+      "replica"
+    ],
+    "name": "Revised Great Old One",
+    "subtype": "bard",
+    "balance": 3,
+    "notes": "Balance Notes: Creates 'slaves' with no limit, allows for near endless spellcasting at the cost of sanity"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cp0bjr/bard_college_of_revolution_a_single_spark_is/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ctuzkj/agents_of_chaldea_5e_a_small_homebrew_book/",
+    "type": "compendium",
+    "tags": [],
+    "name": "Agents of Chaldea"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ct22g1/otherworldly_patron_revised_great_old_one_now/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cxfvqo/titan_aasimar_enough_with_angels_and_devas_your/",
+    "type": "subrace",
+    "name": "Titan Aasimar",
+    "subtype": "aasimar",
+    "tags": [
+      "magic"
+    ],
+    "balance": 1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ctuzkj/agents_of_chaldea_5e_a_small_homebrew_book/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cyer23/ice_cube_for_those_who_tire_of_fire_balls/",
+    "type": "spell",
+    "tags": [
+      "magic"
+    ],
+    "name": "Ice Cube",
+    "level": 3,
+    "notes": "Fireball!",
+    "balance": 0
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cxfvqo/titan_aasimar_enough_with_angels_and_devas_your/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cz90u6/race_spudborn_a_race_of_hearty_potato_people/",
+    "type": "race",
+    "tags": [
+      "joke"
+    ],
+    "name": "Spudborn",
+    "balance": 1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cyer23/ice_cube_for_those_who_tire_of_fire_balls/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d0gh68/induce_headache_a_spell_inspired_by_dealing_with/",
+    "type": "spell",
+    "tags": [
+      "magic"
+    ],
+    "name": "Induce Headache",
+    "level": 1,
+    "balance": 0
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/cz90u6/race_spudborn_a_race_of_hearty_potato_people/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d589ld/good_day_i_hope_your_day_is_good/",
+    "type": "spell",
+    "tags": [],
+    "name": "Good Day",
+    "level": 9,
+    "balance": -1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d0gh68/induce_headache_a_spell_inspired_by_dealing_with/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d5k0ez/skiptracer_ranger_archetype_for_the_true_urban/",
+    "type": "subclass",
+    "name": "Ranger Archetype: Skiptracer",
+    "subtype": "ranger",
+    "tags": [
+      "magic"
+    ],
+    "balance": -2
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d589ld/good_day_i_hope_your_day_is_good/"
-  },
-  {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d5k0ez/skiptracer_ranger_archetype_for_the_true_urban/"
-  },
-  {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d7sh0i/the_symbiont_the_symbiotic_biomancer_class/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/d7sh0i/the_symbiont_the_symbiotic_biomancer_class/",
+    "tags": []
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/daxjmi/arcane_tradition_forge_arcana_a_wizard_subclass/"
