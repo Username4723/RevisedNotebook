@@ -58,11 +58,16 @@
                     </b-form-group>
 
                     <b-form-group label="Type" label-cols="2" label-for="type">
-                      <b-form-select id="type" lazy v-model="homebrew[selected].type" :options="[{ text: 'Choose...', value: undefined }, 'class', 'race', 'subclass', 'subrace', 'feat', 'background', 'compendium' ]" required/>
+                      <b-form-select id="type" lazy v-model="homebrew[selected].type" :options="[{ text: 'Choose...', value: undefined }, 'class', 'race', 'subclass', 'subrace', 'feat', 'background', 'compendium', 'spell' ]" required/>
                     </b-form-group>
 
                     <b-form-group label="Subtype" label-cols="2" label-for="subtype" v-if="homebrew[selected].type == 'subrace' || homebrew[selected].type == 'subclass'">
                       <b-form-input id="subtype" lazy v-model="homebrew[selected].subtype" type="text" required/>
+                    </b-form-group>
+
+                    <b-form-group v-if="homebrew[selected].type == 'spell'" :label="'Level: ' + homebrew[selected].level" label-cols="2" label-for="balance">
+                      <b-form-input id="balance" v-model="homebrew[selected].level" number lazy type="range" min="0" max="9" required/>
+                      <b-button variant='outline-danger' @click="homebrew[selected].level = undefined">Reset</b-button>
                     </b-form-group>
 
                     <b-form-group label="Tags" label-cols="2" label-for="tags">
