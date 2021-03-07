@@ -883,28 +883,67 @@
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/awjuou/subclass_fatesguard_ranger_conclave_know_your/",
-    "tags": []
+    "tags": [
+      "magic"
+    ],
+    "type": "subclass",
+    "name": "Ranger Conclave: Fatesguard",
+    "subtype": "ranger",
+    "balance": 1
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b3tcb0/rookie_characters_be_a_0thlevel_hero/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b3tcb0/rookie_characters_be_a_0thlevel_hero/",
+    "type": "compendium",
+    "tags": [],
+    "name": "Rookie Characters: 0th-Level Characters"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b7jsxd/aether_twin_a_fighter_archetype_than_never_fights/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/b7jsxd/aether_twin_a_fighter_archetype_than_never_fights/",
+    "type": "subclass",
+    "name": "Fighter: Aether Twin",
+    "subtype": "fighter",
+    "tags": [
+      "magic"
+    ],
+    "balance": 2
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ba7lkr/artificer_subclass_panzer_guard/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/ba7lkr/artificer_subclass_panzer_guard/",
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "steampunk",
+      "pathfinder",
+      "broken-link"
+    ],
+    "name": "Artificer: Panzer Guard",
+    "subtype": "artificer",
+    "balance": 2,
+    "notes": "Does not render properly on my screen"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bfoayn/the_evetongue_new_power_word_spells_plus_high/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bfoayn/the_evetongue_new_power_word_spells_plus_high/",
+    "type": "compendium",
+    "tags": [],
+    "name": "Evetongue"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bgxdxc/oath_of_the_unbreakable_a_paladin_oath_that/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bgxdxc/oath_of_the_unbreakable_a_paladin_oath_that/",
+    "type": "subclass",
+    "name": "Oath of the Unbreakable",
+    "subtype": "Paladon",
+    "tags": [
+      "magic"
+    ],
+    "balance": 0
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/blb9ml/goliath_subraces_genealogy_test_revealed_you_dont/"
-  },
-  {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/bonogz/the_next_artificer_ua_artificer_2_2019/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/blb9ml/goliath_subraces_genealogy_test_revealed_you_dont/",
+    "type": "subrace",
+    "tags": [],
+    "name": "Goliath Subraces",
+    "subtype": "goliath",
+    "balance": 0
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/bopt3f/throw_hands_a_conjuration_cantrip_your_enemies/"
