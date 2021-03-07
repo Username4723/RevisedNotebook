@@ -188,7 +188,10 @@
     "type": "class"
   },
   {
-    "link": "https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf"
+    "link": "https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf",
+    "name": "Modern Magic",
+    "type": "compendium",
+    "tags": []
   },
   {
     "balance": 3,
@@ -202,7 +205,9 @@
     "type": "class"
   },
   {
-    "link": "https://mfov.magehandpress.com/2017/07/power-word-spells.html"
+    "link": "https://mfov.magehandpress.com/2017/07/power-word-spells.html",
+    "name": "Power Word Spells",
+    "type": "compendium"
   },
   {
     "balance": -2,
@@ -765,60 +770,120 @@
     "name": "Way of the Waterbender",
     "subtype": "monk",
     "type": "subclass",
-    "tags": []
+    "tags": [
+      "magic",
+      "external"
+    ],
+    "balance": 0
   },
   {
     "link": "https://www.gmbinder.com/share/-M3jU4cQZ23cHzaiywZ5",
     "name": "Otherworldly Patron: My Dad",
     "subtype": "warlock",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": [
+      "joke",
+      "magic"
+    ],
+    "balance": 1
   },
   {
     "link": "https://www.gmbinder.com/share/-MJVQX3LfSlcRONaig9O/-MMChc3Tu0YvYhPFu02v",
     "name": "Otherworldly Patron: The Yellow King",
     "subtype": "warlock",
-    "type": "subclass"
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "complicated"
+    ],
+    "balance": 4,
+    "notes": "Balance notes: 14th level is an insta-kill in essence, annyoing to DM and broken."
   },
   {
-    "link": "https://www.myth-weavers.com/showthread.php?t=358636"
+    "link": "https://www.myth-weavers.com/showthread.php?t=358636",
+    "tags": [],
+    "name": "Monster Musume Races",
+    "type": "compendium"
   },
   {
-    "link": "https://www.reddit.com/r/DnD/comments/h7j4zi/oc_the_mistborn_v13_now_with_6_new_misting_races/"
+    "link": "https://www.reddit.com/r/DnD/comments/h7j4zi/oc_the_mistborn_v13_now_with_6_new_misting_races/",
+    "name": "Mistborn",
+    "type": "compendium"
   },
   {
-    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/bc8j78/old_school_cantrips/"
+    "link": "https://www.reddit.com/r/DnDBehindTheScreen/comments/bc8j78/old_school_cantrips/",
+    "name": "Old School Cantrips",
+    "type": "compendium"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/6om1nu/arcane_artillery_the_gun_nuts_guide_final_edition/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/6om1nu/arcane_artillery_the_gun_nuts_guide_final_edition/",
+    "name": "Arcane Artillery",
+    "type": "compendium"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8ntl4j/homebrew_barbarian_subclass_path_of_the_savage/",
     "name": "Path of the Savage",
     "subtype": "barbarian",
     "type": "subclass",
-    "tags": []
+    "tags": [
+      "complicated",
+      "nonmechanical"
+    ],
+    "balance": 2
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/8q2g6h/the_bloodborne_class_a_brand_new_take_on/",
     "name": "Bloodborne",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "magic"
+    ],
+    "notes": "Being able to heal a d6 for every 10hp lost is a bit broken, along with the ability to cast spells and attacking with melee.",
+    "balance": 3
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/939c4v/genuine_the_compendium_of_forgotten_secrets/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/939c4v/genuine_the_compendium_of_forgotten_secrets/",
+    "tags": [],
+    "name": "Compendium of Forgotten Secrets",
+    "type": "compendium"
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/9ccl7k/the_commoner_an_eminently_killable_possibly/",
     "name": "Commoner",
-    "type": "class"
+    "type": "class",
+    "tags": [
+      "joke",
+      "incomplete"
+    ],
+    "notes": "Ability score improvement is not given a level.",
+    "balance": -3
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9szfsg/the_stressed_student_wizard_subclass_for_all_of/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/9szfsg/the_stressed_student_wizard_subclass_for_all_of/",
+    "type": "subclass",
+    "tags": [
+      "magic",
+      "joke"
+    ],
+    "name": "School of the Stressed Student",
+    "subtype": "wizard",
+    "balance": 3,
+    "notes": "Quick Learner is very powerful."
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/a7y86c/roguish_archetype_secret_santa/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/a7y86c/roguish_archetype_secret_santa/",
+    "type": "subclass",
+    "tags": [
+      "joke"
+    ],
+    "name": "Roguish Archetype",
+    "subtype": "rogue",
+    "balance": -3,
+    "notes": "Balance explanation: Compare to Assassin our Scout"
   },
   {
-    "link": "https://www.reddit.com/r/UnearthedArcana/comments/awjuou/subclass_fatesguard_ranger_conclave_know_your/"
+    "link": "https://www.reddit.com/r/UnearthedArcana/comments/awjuou/subclass_fatesguard_ranger_conclave_know_your/",
+    "tags": []
   },
   {
     "link": "https://www.reddit.com/r/UnearthedArcana/comments/b3tcb0/rookie_characters_be_a_0thlevel_hero/"
