@@ -5,7 +5,7 @@
     </template>
     <template v-slot:footer="{ page, rootPage }">
       <div v-if="page == rootPage && rootPage.homebrewFilter">
-        <h5>Allowed Homebrew</h5>
+        <h5>Filtered Homebrew</h5>
         <HomebrewViewer :brew="acceptedHomebrew(rootPage)"></HomebrewViewer>
       </div>
     </template>
